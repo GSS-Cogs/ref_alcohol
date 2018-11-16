@@ -1,0 +1,16 @@
+{
+  "@context": ["http://www.w3.org/ns/csvw", {"@language": "en"}],
+  "tables": [{
+    "url": "codelists/alcohol-category.csv",
+    "tableSchema": "https://ons-opendata.github.io/ref_migration/codelist-schema.json",
+    "rdfs:label": "Alcohol Category"
+  }, {
+    "url": "codelists/alcohol-content.csv",
+    "tableSchema": "https://ons-opendata.github.io/ref_migration/codelist-schema.json",
+    "rdfs:label": "Alcohol Content"
+  }, {
+    "url": "codelists/alcohol-duty.csv",
+    "tableSchema": "https://ons-opendata.github.io/ref_migration/codelist-schema.json",
+    "rdfs:label": "Alcohol Duty"
+  }]
+}
