@@ -1,0 +1,12 @@
+Label,Notation,Parent Notation,Sort Priority
+Anti-social behaviour,asb,,1
+Damage to people's health,damage-to-health,,2
+Crime in my local area,crime,,3
+Fear in my local area,fear,,4
+Violence in my local area,violence,,5
+Less money available for public services,less-money,,6
+Lack of investment by businesses,lack-of-investment,,7
+Loss of confidence in law enforcement agencies,loss-of-confidence,,8
+Loss of trade for businesses,loss-of-trade,,9
+Other,other,,10
+Unweighted base,unweighted-base,,11

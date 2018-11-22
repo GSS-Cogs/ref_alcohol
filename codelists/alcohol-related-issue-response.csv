@@ -1,0 +1,11 @@
+Label,Notation,Parent Notation,Sort Priority
+Agree / strongly agree,agree,,1
+Neither agree nor disagree,neither,,2
+Disagree / strongly disagree,disagree,,3
+Better,better,,4
+About the same,same,,5
+Worse,worse,,6
+Total or a lot of confidence,total-confidence,,7
+Some confidence,some-confidence,,8
+Little or no confidence,no-confidence,,9
+Unweighted base,unweighted-base,,10

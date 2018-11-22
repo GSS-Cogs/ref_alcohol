@@ -1,0 +1,12 @@
+Label,Notation,Parent Notation,Sort Priority
+Overall,overall,,1
+Police,police,,2
+Local councillor,councillor,,3
+Local community representative,community,,4
+Local MLA,mla,,5
+NIHE / Housing Association,nihe,,6
+Policing and Community Safety Partnership,pcsp,,7
+Borough/City/District Council,borough,,8
+Government Department,govt-dept,,9
+Other,other,,10
+Unweighted base,unweighted-base,,11

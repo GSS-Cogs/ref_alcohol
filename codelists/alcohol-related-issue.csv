@@ -1,0 +1,18 @@
+Label,Notation,Parent Notation,Sort Priority
+Underage drinking,underage-drinking,,1
+Rowdy and drunken behaviour,rowdy-behaviour,,2
+Drink-driving,drink-driving,,3
+Drinking in public places,drinking-in-public,,4
+Alcohol use/abuse,alcohol-use,,5
+Underage sales of alcohol,underage-alcohol-sales,,6
+Personal safety,personal-safety,,7
+Theft,theft,,8
+Vandalism,vandalism,,9
+General disturbance,disturbance,,10
+Joy riding,joy-riding,,11
+Litter,litter,,12
+Spiking of drinks,spiking-drinks,,13
+Indecent exposure/urinating in street,indecent-exposure,,14
+Unwanted sexual contact,unwanted-sexual-contact,,15
+Other,other,,16
+Unweighted base,unweighted-base,,17
