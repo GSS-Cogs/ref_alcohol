@@ -1,0 +1,5 @@
+Label,Notation,Parent Notation,Sort Priority
+All,all,,1
+Residential,residential,all,2
+Non-residential,non-residential,all,3
+Mixed,mixed,all,4

@@ -1,0 +1,8 @@
+Label,Notation,Parent Notation,Sort Priority
+All,all,,1
+Belfast,belfast,all,2
+Northern,northern,all,3
+South Eastern,south-eastern,all,4
+Southern,southern,all,5
+Western,western,all,6
+Emergency admissions (HIS),emergency-admissions,all,7
