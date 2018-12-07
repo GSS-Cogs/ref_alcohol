@@ -13,3 +13,4 @@ Intentional self-poisoning by and exposure to alcohol (X65),x65,,10
 Mental and behavioural disorders due to use of alcohol (F10),f10,,12
 "Poisoning by and exposure to alcohol, undetermined intent (Y15)",y15,,13
 "All other alcohol related deaths (E24.4, G31.2, G62.1, G72.1, I42.6, K29.2, K70, K85.2, Q86.0, R78.0, K86.0)",all-other-alcohol-related-deaths,,14
+All alcohol related deaths,all-alcohol-related-deaths,,15
