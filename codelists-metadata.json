@@ -12,5 +12,65 @@
     "url": "codelists/alcohol-duty.csv",
     "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
     "rdfs:label": "Alcohol Duty"
+  }, {
+    "url": "codelists/alcohol-related-issue.csv",
+    "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
+    "rdfs:label": "Alcohol related issue"
+  }, {
+    "url": "codelists/alcohol-related-issue-importance.csv",
+    "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
+    "rdfs:label": "Alcohol related issue importance"
+  }, {
+    "url": "codelists/alcohol-related-issue-response.csv",
+    "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
+    "rdfs:label": "Alcohol related issue response"
+  }, {
+    "url": "codelists/demographic.csv",
+    "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
+    "rdfs:label": "Demographic"
+  }, {
+    "url": "codelists/harm-level.csv",
+    "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
+    "rdfs:label": "Harm level"
+  }, {
+    "url": "codelists/harm-type.csv",
+    "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
+    "rdfs:label": "Harm type"
+  }, {
+    "url": "codelists/health-social-care-trusts.csv",
+    "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
+    "rdfs:label": "Health and social care trusts"
+  }, {
+    "url": "codelists/representatives.csv",
+    "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
+    "rdfs:label": "Representative"
+  }, {
+    "url": "codelists/residential-status.csv",
+    "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
+    "rdfs:label": "Residential status"
+  }, {
+    "url": "codelists/respondents-affected.csv",
+    "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
+    "rdfs:label": "Respondents affected"
+  }, {
+    "url": "codelists/service-type.csv",
+    "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
+    "rdfs:label": "Service type"
+  }, {
+    "url": "codelists/severity.csv",
+    "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
+    "rdfs:label": "Severity"
+  }, {
+    "url": "codelists/statement.csv",
+    "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
+    "rdfs:label": "Statement"
+  }, {
+    "url": "codelists/treatment-type.csv",
+    "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
+    "rdfs:label": "Treatment type"
+  }, {
+    "url": "codelists/underlying-cause-of-death.csv",
+    "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
+    "rdfs:label": "Underlying cause of death"
   }]
 }
