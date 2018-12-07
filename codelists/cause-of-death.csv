@@ -1,0 +1,3 @@
+Label,Notation,Parent Notation,Sort Priority
+All deaths,all-deaths,,1
+Alcohol related deaths,alcohol-related-deaths,all-deaths,2
