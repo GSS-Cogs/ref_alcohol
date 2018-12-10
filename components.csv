@@ -1,0 +1,24 @@
+Label,Description,Component Type,Codelist
+CI Lower,Lower 95% confidence interval,Attribute,
+CI Upper,Upper 95% confidence interval,Attribute,
+Underlying Cause of Death,Underlying cause of death (ICD-10 codes),Dimension,http://gss-data.org.uk/def/concept-scheme/underlying-cause-of-death
+Health and Social Care Trust,Health and Social Care Trusts in Northern Ireland,Dimension,http://gss-data.org.uk/def/concept-scheme/health-and-social-care-trust
+Deprivation Quintile,"Deprivation Quintile, where 1 is most deprived and 5 is least deprived",Dimension,
+Cause of Death,Cause of death,Dimension,http://gss-data.org.uk/def/concept-scheme/cause-of-death
+Alcohol Duty,Alcohol Duty,Dimension,http://gss-data.org.uk/def/concept-scheme/alcohol-duty
+Alcohol Content,Alcohol Content,Dimension,http://gss-data.org.uk/def/concept-scheme/alcohol-content
+Alcohol Category,Alcohol Category,Dimension,http://gss-data.org.uk/def/concept-scheme/alcohol-category
+Severity,Severity,Dimension,http://gss-data.org.uk/def/concept-scheme/severity
+Demographic,Demographic,Dimension,http://gss-data.org.uk/def/concept-scheme/demographic
+Alcohol related issue response,Alcohol related issue response,Dimension,http://gss-data.org.uk/def/concept-scheme/alcohol-related-issue-response
+Alcohol related issue,Alcohol related issue,Dimension,http://gss-data.org.uk/def/concept-scheme/alcohol-related-issue
+Alcohol related issue importance,Alcohol related issue importance,Dimension,http://gss-data.org.uk/def/concept-scheme/alcohol-related-issue-importance
+Representatives,Representatives,Dimension,http://gss-data.org.uk/def/concept-scheme/representatives
+Respondents affected,Respondents affected,Dimension,http://gss-data.org.uk/def/concept-scheme/respondents-affected
+Harm type,Harm type,Dimension,http://gss-data.org.uk/def/concept-scheme/harm-type
+Harm level,Harm level,Dimension,http://gss-data.org.uk/def/concept-scheme/harm-level
+Statement,Statement about an alcohol related issue to which respondents provide a response,Dimension,http://gss-data.org.uk/def/concept-scheme/statement
+Treatment Type,Treatment Type,Dimension,http://gss-data.org.uk/def/concept-scheme/treatment-type
+Trust,NHS trust,Dimension,http://gss-data.org.uk/def/concept-scheme/trust
+Service Type,Service Type,Dimension,http://gss-data.org.uk/def/concept-scheme/service-type
+Residential Status,Residential Status,Dimension,http://gss-data.org.uk/def/concept-scheme/residential-status

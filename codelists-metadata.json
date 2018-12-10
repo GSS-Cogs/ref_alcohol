@@ -43,7 +43,7 @@
   }, {
     "url": "codelists/representatives.csv",
     "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
-    "rdfs:label": "Representative"
+    "rdfs:label": "Representatives"
   }, {
     "url": "codelists/residential-status.csv",
     "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
@@ -72,5 +72,9 @@
     "url": "codelists/underlying-cause-of-death.csv",
     "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
     "rdfs:label": "Underlying cause of death"
+  }, {
+    "url": "codelists/cause-of-death.csv",
+    "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
+    "rdfs:label": "Cause of death"
   }]
 }
