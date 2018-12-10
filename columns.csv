@@ -12,6 +12,7 @@ Cider Clearances,cider_clearances,qb:measure,http://gss-data.org.uk/def/measure/
 Rates of Duty,rates_of_duty,qb:measure,http://gss-data.org.uk/def/measure/rates-of-duty,,number,
 "Rate per 100,000 persons",rate_per_100_000_persons,qb:measure,http://gss-data.org.uk/def/measure/rate-per-100-000-persons,,number,
 Period,period,qb:dimension,http://purl.org/linked-data/sdmx/2009/dimension#refPeriod,http://reference.data.gov.uk/id/{+period},string,
+Year,year,qb:dimension,http://purl.org/linked-data/sdmx/2009/dimension#refPeriod,http://reference.data.gov.uk/id/year/{year},string,
 Sex,sex,qb:dimension,http://purl.org/linked-data/sdmx/2009/dimension#sex,http://purl.org/linked-data/sdmx/2009/code#sex-{sex},string,
 Unit,unit,qb:attribute,http://purl.org/linked-data/sdmx/2009/attribute#unitMeasure,http://gss-data.org.uk/def/concept/measurement-units/{unit},string,unitize
 Value,value,,http://gss-data.org.uk/def/measure/{measure_type},,number,
