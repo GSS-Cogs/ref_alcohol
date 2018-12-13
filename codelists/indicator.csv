@@ -1,0 +1,33 @@
+Label,Notation,Parent Notation,Sort Priority
+1.02 - Years of life lost due to alcohol-related conditions,92712,,1
+2.01 - Alcohol-specific mortality,91380,,2
+3.01 - Mortality from chronic liver disease,91381,,3
+4.01 - Alcohol-related mortality,91382,,4
+5.02 - Admission episodes for alcohol-specific conditions - Under 18s,92904,,5
+6.02 - Admission episodes for alcohol-specific conditions,92906,,6
+9.01 - Admission episodes for alcohol-related conditions (Broad),91409,,7
+9.03 - Admission episodes for alcohol-related cardiovascular disease conditions (Broad),91411,,8
+9.04 - Admission episodes for mental and behavioural disorders due to use of alcohol condition (Broad),91412,,9
+9.05 - Admission episodes for alcoholic liver disease condition (Broad),91413,,10
+10.01 - Admission episodes for alcohol-related conditions (Narrow),91414,,11
+10.03 - Admission episodes for alcohol-related unintentional injuries conditions (Narrow),91417,,12
+10.04 - Admission episodes for mental and behavioural disorders due to use of alcohol condition  (Narrow),91416,,13
+10.05 - Admission episodes for intentional self-poisoning by and exposure to alcohol condition (Narrow),91418,,14
+10.06 - Admission episodes for alcohol-related conditions (Narrow) - Under 40s,92316,,15
+10.07 - Admission episodes for alcohol-related conditions (Narrow) - 40-64 yrs,92320,,16
+10.08 - Admission episodes for alcohol-related conditions (Narrow) - Over 65s,92321,,17
+11.01 - Claimants of benefits due to alcoholism,91463,,18
+12.01 - Alcohol Related Road Traffic Accidents,91917,,19
+13.01 - Incidence rate of alcohol-related cancer,92323,,20
+14.01 - Number in treatment at specialist alcohol misuse services,91182,,21
+15.01 - Successful completion of treatment for alcohol,92447,,22
+16.01 - Proportion waiting more than 3 weeks for alcohol treatment,91123,,23
+17.01 - Volume of pure alcohol sold through the off-trade: all alcohol sales,92763,,24
+17.02 - Volume of pure alcohol sold through the off-trade: beer sales,92765,,25
+17.03 - Volume of pure alcohol sold through the off-trade: wine sales,92768,,26
+17.04 - Volume of pure alcohol sold through the off-trade: spirit sales,92770,,27
+18.01 - Number of premises licensed to sell alcohol per square kilometre,92772,,28
+19.01 - Percentage of adults who abstain from drinking alcohol,92774,,29
+19.02 - Percentage of adults binge drinking on heaviest drinking day,92776,,30
+19.03 - Percentage of adults drinking over 14 units of alcohol a week,92778,,31
+20.01 - Percentage of dependent drinkers,93193,,32

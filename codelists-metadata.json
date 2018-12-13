@@ -76,5 +76,9 @@
     "url": "codelists/cause-of-death.csv",
     "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
     "rdfs:label": "Cause of death"
+  }, {
+    "url": "codelists/indicator.csv",
+    "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
+    "rdfs:label": "Indicator"
   }]
 }

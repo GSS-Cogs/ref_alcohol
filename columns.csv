@@ -11,7 +11,9 @@ UK Beer Production,uk_beer,qb:measure,http://gss-data.org.uk/def/measure/uk-beer
 Beer Clearances,beer_clearances,qb:measure,http://gss-data.org.uk/def/measure/beer-clearances,,number,
 Cider Clearances,cider_clearances,qb:measure,http://gss-data.org.uk/def/measure/cider-clearances,,number,
 Rates of Duty,rates_of_duty,qb:measure,http://gss-data.org.uk/def/measure/rates-of-duty,,number,
+"Rate per 1,000 accidents",rate_per_1000_accidents,qb:measure,http://gss-data.org.uk/def/measure/rate-per-1000-accidents,,number,
 "Rate per 100,000 persons",rate_per_100_000_persons,qb:measure,http://gss-data.org.uk/def/measure/rate-per-100-000-persons,,number,
+Volume,volume,qb:measure,http://gss-data.org.uk/def/measure/volume,,number,
 Period,period,qb:dimension,http://purl.org/linked-data/sdmx/2009/dimension#refPeriod,http://reference.data.gov.uk/id/{+period},string,
 Year,year,qb:dimension,http://purl.org/linked-data/sdmx/2009/dimension#refPeriod,http://reference.data.gov.uk/id/year/{year},string,
 Sex,sex,qb:dimension,http://purl.org/linked-data/sdmx/2009/dimension#sex,http://purl.org/linked-data/sdmx/2009/code#sex-{sex},string,
@@ -43,3 +45,4 @@ Service Type,service_type,qb:dimension,http://gss-data.org.uk/def/dimension/serv
 Residential Status,residential_status,qb:dimension,http://gss-data.org.uk/def/dimension/residential-status,http://gss-data.org.uk/def/concept/residential-status/{residential_status},string,slugize
 Geography,geography,qb:dimension,http://purl.org/linked-data/sdmx/2009/dimension#refArea,http://statistics.data.gov.uk/id/statistical-geography/{geography},string,
 Revision,revision,qb:dimension,http://gss-data.org.uk/def/dimension/revision,http://gss-data.org.uk/def/concept/revisions/{revision},string,slugize
+Indicator,indicator,qb:dimension,http://gss-data.org.uk/def/dimension/indicator,http://gss-data.org.uk/def/concept/indicator/{indicator},string,
