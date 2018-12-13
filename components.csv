@@ -22,3 +22,14 @@ Treatment Type,Treatment Type,Dimension,http://gss-data.org.uk/def/concept-schem
 Trust,NHS trust,Dimension,http://gss-data.org.uk/def/concept-scheme/trust
 Service Type,Service Type,Dimension,http://gss-data.org.uk/def/concept-scheme/service-type
 Residential Status,Residential Status,Dimension,http://gss-data.org.uk/def/concept-scheme/residential-status
+Average Count,Average Count,Measure,
+Percentage,Percentage,Measure,
+Quantities Released for Consumption,Quantities Released for Consumption,Measure,
+Revenue,Revenue,Measure,
+Production of Potable Spirits,Production of Potable Spirits,Measure,
+Net Quantities of Spirits Charged with Duty,Net Quantities of Spirits Charged with Duty,Measure,
+UK Beer Production,UK Beer Production,Measure,
+Beer Clearances,Beer Clearances,Measure,
+Cider Clearances,Cider Clearances,Measure,
+Rates of Duty,Rates of Duty,Measure,
+Rate per 100,000 persons,Rate per 100,000 persons,Measure,
