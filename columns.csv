@@ -3,7 +3,7 @@ Measure Type,measure_type,qb:dimension,http://purl.org/linked-data/cube#measureT
 Count,count,qb:measure,http://gss-data.org.uk/def/measure/count,,number,
 Average Count,average_count,qb:measure,http://gss-data.org.uk/def/measure/average-count,,number,
 Percentage,percentage,qb:measure,http://gss-data.org.uk/def/measure/percentage,,number,
-Quantities Released for Consumption,quantities_released_for_consumption,qb:measure,http://gss-data.org.uk/def/measure/quantities-consumption,,number,
+Quantities Released for Consumption,quantities_released_for_consumption,qb:measure,http://gss-data.org.uk/def/measure/quantities-released-for-consumption,,number,
 Revenue,revenue,qb:measure,http://gss-data.org.uk/def/measure/revenue,,number,
 Production of Potable Spirits,production_of_potable_spirits,qb:measure,http://gss-data.org.uk/def/measure/production-of-potable-spirits,,number,
 Net Quantities of Spirits Charged with Duty,net_quantities_of_spirit_charged_with_duty,qb:measure,http://gss-data.org.uk/def/measure/net-quantities-spirits,,number,
