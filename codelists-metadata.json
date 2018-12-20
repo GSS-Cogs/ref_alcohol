@@ -39,7 +39,7 @@
   }, {
     "url": "codelists/health-social-care-trusts.csv",
     "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
-    "rdfs:label": "Health and social care trusts"
+    "rdfs:label": "Health and social care trust"
   }, {
     "url": "codelists/representatives.csv",
     "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
