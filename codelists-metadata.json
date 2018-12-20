@@ -61,9 +61,9 @@
     "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
     "rdfs:label": "Severity"
   }, {
-    "url": "codelists/statement.csv",
+    "url": "codelists/metric.csv",
     "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
-    "rdfs:label": "Statement"
+    "rdfs:label": "Metric"
   }, {
     "url": "codelists/treatment-type.csv",
     "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
