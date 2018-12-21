@@ -1,3 +1,5 @@
+@Library('pmd@add_tests') _
+
 pipeline {
     agent {
         label 'master'
