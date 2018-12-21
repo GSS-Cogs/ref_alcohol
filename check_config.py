@@ -35,9 +35,11 @@ with open('components.csv') as components_file:
             column_spec = column_titles[row['Label']]
             assert column_spec['component_attachment'] == 'qb:dimension'
             if column_spec['property_template'].startswith('http://gss-data.org.uk/'):
-                assert column_spec['property_template'] == f"http://gss-data.org.uk/def/dimension/{pathify(row['Label'])}"
+                assert column_spec['property_template'] == f"http://gss-data.org.uk/def/dimension/{pathify(row['Label'])}", f"property_template mismatch '{column_spec['property_template']}' != 'http://gss-data.org.uk/def/dimension/{pathify(row['Label'])}'"
             if row['Codelist'].startswith('http://gss-data.org.uk/'):
                 assert row['Codelist'] in codelist_uris, f"Codelist '{row['Codelist']}' not defined in codelists-metadata.json"
+            if column_spec['value_template'].startswith('http://gss-data.org.uk'):
+                assert column_spec['value_template'].startswith(f"http://gss-data.org.uk/def/concept/{pathify(row['Label'])}/"), f"Expecting value_template to look like 'http://gss-data.org.uk/def/concept/{pathify(row['Label'])}'"
         elif row['Component Type'] == 'Attribute':
             assert row['Label'] in column_titles.keys()
             column_spec = column_titles[row['Label']]

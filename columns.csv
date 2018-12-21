@@ -24,7 +24,7 @@ Age,age,qb:dimension,http://purl.org/linked-data/sdmx/2009/dimension#age,http://
 CI Upper,ci_upper,qb:attribute,http://gss-data.org.uk/def/attribute/ci-upper,,number,
 CI Lower,ci_lower,qb:attribute,http://gss-data.org.uk/def/attribute/ci-lower,,number,
 Underlying Cause of Death,underlying_cause_of_death,qb:dimension,http://gss-data.org.uk/def/dimension/underlying-cause-of-death,http://gss-data.org.uk/def/concept/underlying-cause-of-death/{underlying_cause_of_death},string,slugize
-Health and Social Care Trust,health_and_social_care_trust,qb:dimension,http://gss-data.org.uk/def/dimension/health-and-social-care-trust,http://gss-data.org.uk/def/concept/health-and-social-care-trusts/{health_and_social_care_trust},string,slugize
+Health and Social Care Trust,health_and_social_care_trust,qb:dimension,http://gss-data.org.uk/def/dimension/health-and-social-care-trust,http://gss-data.org.uk/def/concept/health-and-social-care-trust/{health_and_social_care_trust},string,slugize
 Deprivation Quintile,deprivation_quintile,qb:dimension,http://gss-data.org.uk/def/dimension/deprivation-quintile,http://gss-data.org.uk/def/concept/deprivation-quintiles/{deprivation_quintile},string,
 Cause of Death,cause_of_death,qb:dimension,http://gss-data.org.uk/def/dimension/cause-of-death,http://gss-data.org.uk/def/concept/cause-of-death/{cause_of_death},string,slugize
 Alcohol Duty,alcohol_duty,qb:dimension,http://gss-data.org.uk/def/dimension/alcohol-duty,http://gss-data.org.uk/def/concept/alcohol-duty/{alcohol_duty},string,slugize
