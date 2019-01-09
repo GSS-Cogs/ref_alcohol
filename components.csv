@@ -23,6 +23,7 @@ Trust,NHS trust,Dimension,http://gss-data.org.uk/def/concept-scheme/trust
 Service Type,Service Type,Dimension,http://gss-data.org.uk/def/concept-scheme/service-type
 Residential Status,Residential Status,Dimension,http://gss-data.org.uk/def/concept-scheme/residential-status
 Indicator,Local Alcohol Profiles for England indicator,Dimension,http://gss-data.org.uk/def/concept-scheme/indicator
+NIMDM Type,Describes the type of the Northern Ireland Multiple Deprivation Measure,Dimension,http://gss-data.org.uk/def/concept-scheme/nimdm
 "Rate per 1,000 accidents","Rate per 1,000 accidents",Measure,
 Volume,Volume,Measure,
 "Rate per 100,000 persons","Rate per 100,000 persons",Measure,

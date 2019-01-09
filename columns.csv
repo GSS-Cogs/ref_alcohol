@@ -47,3 +47,4 @@ Residential Status,residential_status,qb:dimension,http://gss-data.org.uk/def/di
 Geography,geography,qb:dimension,http://purl.org/linked-data/sdmx/2009/dimension#refArea,http://statistics.data.gov.uk/id/statistical-geography/{geography},string,
 Revision,revision,qb:dimension,http://gss-data.org.uk/def/dimension/revision,http://gss-data.org.uk/def/concept/revisions/{revision},string,slugize
 Indicator,indicator,qb:dimension,http://gss-data.org.uk/def/dimension/indicator,http://gss-data.org.uk/def/concept/indicator/{indicator},string,
+NIMDM Type,nimdm,qb:dimension,http://gss-data.org.uk/def/dimension/nimdm,http://gss-data.org.uk/def/concept/nimdm/{nimdm},string,
