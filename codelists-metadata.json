@@ -80,7 +80,7 @@
     "url": "codelists/indicator.csv",
     "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
     "rdfs:label": "Indicator"
-  }, , {
+  }, {
     "url": "codelists/nimdm.csv",
     "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
     "rdfs:label": "NIMDM Type"
