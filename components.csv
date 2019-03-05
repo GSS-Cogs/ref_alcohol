@@ -38,3 +38,5 @@ Beer Clearances,Beer Clearances,Measure,
 Cider Clearances,Cider Clearances,Measure,
 Rates of Duty,Rates of Duty,Measure,
 Alcohol Clearances,Alcohol Clearances,Measure,
+Basis of treatment,Basis of treatment,Dimension,http://gss-data.org.uk/def/concept-scheme/basis-of-treatment
+Substance type,Substance type,Dimension,http://gss-data.org.uk/def/concept-scheme/substance-type

@@ -84,5 +84,13 @@
     "url": "codelists/nimdm.csv",
     "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
     "rdfs:label": "NIMDM Type"
+  }, {
+    "url": "codelists/basis-of-treatment.csv",
+    "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
+    "rdfs:label": "Basis of treatment"
+  }, {
+    "url": "codelists/substance-type.csv",
+    "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
+    "rdfs:label": "Substance type"
   }]
 }

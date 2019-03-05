@@ -48,3 +48,5 @@ Geography,geography,qb:dimension,http://purl.org/linked-data/sdmx/2009/dimension
 Revision,revision,qb:dimension,http://gss-data.org.uk/def/dimension/revision,http://gss-data.org.uk/def/concept/revisions/{revision},string,slugize
 Indicator,indicator,qb:dimension,http://gss-data.org.uk/def/dimension/indicator,http://gss-data.org.uk/def/concept/indicator/{indicator},string,
 NIMDM Type,nimdm,qb:dimension,http://gss-data.org.uk/def/dimension/nimdm,http://gss-data.org.uk/def/concept/nimdm/{nimdm},string,
+Basis of treatment,basis_of_treatment,qb:dimension,http://gss-data.org.uk/def/dimension/basis-of-treatment,http://gss-data.org.uk/def/concept/basis-of-treatment/{basis_of_treatment},string,
+Substance type,substance_type,qb:dimension,http://gss-data.org.uk/def/dimension/substance-type,http://gss-data.org.uk/def/concept/substance-type/{substance_type},string,

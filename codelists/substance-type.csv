@@ -1,0 +1,6 @@
+Label,Notation,Parent Notation,Sort Priority
+Total,total,,1
+Opiate,opiate,total,2
+Non-opiate only,non-opiate-only,total,3
+Non-opiate and Alcohol,non-opiate-and-alcohol,total,4
+Alcohol only,alcohol-only,total,5

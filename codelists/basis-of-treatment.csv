@@ -1,0 +1,220 @@
+Label,Notation,Parent Notation,Sort Priority
+Substance,substance,,1
+Opiate (not crack cocaine),substance/opiate-not-crack-cocaine,substance,2
+Both opiate and crack cocaine,substance/both-opiate-and-crack-cocaine,substance,3
+Crack cocaine (not opiate),substance/crack-cocaine-not-opiate,substance,4
+Cannabis,substance/cannabis,substance,5
+Cocaine,substance/cocaine,substance,6
+Benzodiazepine,substance/benzodiazepine,substance,7
+Amphetamine (other than ecstasy),substance/amphetamine-other-than-ecstasy,substance,8
+Other drug,substance/other-drug,substance,9
+Hallucinogen,substance/hallucinogen,substance,10
+Other prescription drug,substance/other-prescription-drug,substance,11
+Anti-depressant,substance/anti-depressant,substance,12
+Solvent,substance/solvent,substance,13
+Major tranquiliser,substance/major-tranquiliser,substance,14
+Barbiturate,substance/barbiturate,substance,15
+Alcohol,substance/alcohol,substance,16
+Total number of individuals,substance/total-number-of-individuals,substance,17
+Club drug and new psychoactive substances,club-drug-and-new-psychoactive-substances,,18
+Mephedrone,club-drug-and-new-psychoactive-substances/mephedrone,club-drug-and-new-psychoactive-substances,19
+New psychoactive substances,club-drug-and-new-psychoactive-substances/new-psychoactive-substances,club-drug-and-new-psychoactive-substances,20
+Ecstasy,club-drug-and-new-psychoactive-substances/ecstasy,club-drug-and-new-psychoactive-substances,21
+Ketamine,club-drug-and-new-psychoactive-substances/ketamine,club-drug-and-new-psychoactive-substances,22
+GHB/GBL,club-drug-and-new-psychoactive-substances/ghb/gbl,club-drug-and-new-psychoactive-substances,23
+Methamphetamine,club-drug-and-new-psychoactive-substances/methamphetamine,club-drug-and-new-psychoactive-substances,24
+Predominantly cannabinoid,club-drug-and-new-psychoactive-substances/predominantly-cannabinoid,club-drug-and-new-psychoactive-substances,25
+Predominantly stimulant,club-drug-and-new-psychoactive-substances/predominantly-stimulant,club-drug-and-new-psychoactive-substances,26
+Other,club-drug-and-new-psychoactive-substances/other,club-drug-and-new-psychoactive-substances,27
+Predominantly sedative/opioid,club-drug-and-new-psychoactive-substances/predominantly-sedative-opioid,club-drug-and-new-psychoactive-substances,28
+Predominantly hallucinogenic,club-drug-and-new-psychoactive-substances/predominantly-hallucinogenic,club-drug-and-new-psychoactive-substances,29
+Predominantly dissociative,club-drug-and-new-psychoactive-substances/predominantly-dissociative,club-drug-and-new-psychoactive-substances,30
+Total number of citations,club-drug-and-new-psychoactive-substances/total-number-of-citations,club-drug-and-new-psychoactive-substances,31
+Total number of individuals,club-drug-and-new-psychoactive-substances/total-number-of-individuals,club-drug-and-new-psychoactive-substances,32
+Total number in treatment,club-drug-and-new-psychoactive-substances/total-number-in-treatment,club-drug-and-new-psychoactive-substances,33
+Age,age,,34
+18,age/18,age,35
+19,age/19,age,36
+20-24,age/20-24,age,37
+25-29,age/25-29,age,38
+30-34,age/30-34,age,39
+35-39,age/35-39,age,40
+40-44,age/40-44,age,41
+45-49,age/45-49,age,42
+50-54,age/50-54,age,43
+55-59,age/55-59,age,44
+60-64,age/60-64,age,45
+65-69,age/65-69,age,46
+70+,age/70plus,age,47
+Total,age/total,age,48
+Gender,gender,,49
+Male,gender/male,gender,50
+Female,gender/female,gender,51
+Total,gender/total,gender,52
+Ethnicity,ethnicity,,53
+White British,ethnicity/white-british,ethnicity,54
+Other white,ethnicity/other-white,ethnicity,55
+Not stated,ethnicity/not-stated,ethnicity,56
+White Irish,ethnicity/white-irish,ethnicity,57
+Indian,ethnicity/indian,ethnicity,58
+Caribbean,ethnicity/caribbean,ethnicity,59
+White and black Caribbean,ethnicity/white-and-black-caribbean,ethnicity,60
+Pakistani,ethnicity/pakistani,ethnicity,61
+Other Asian,ethnicity/other-asian,ethnicity,62
+Other,ethnicity/other,ethnicity,63
+Other black,ethnicity/other-black,ethnicity,64
+African,ethnicity/african,ethnicity,65
+Other mixed,ethnicity/other-mixed,ethnicity,66
+Bangladeshi,ethnicity/bangladeshi,ethnicity,67
+White and Asian,ethnicity/white-and-asian,ethnicity,68
+White and black African,ethnicity/white-and-black-african,ethnicity,69
+Chinese,ethnicity/chinese,ethnicity,70
+Unknown,ethnicity/unknown,ethnicity,71
+Inconsistent/missing,ethnicity/inconsistent/missing,ethnicity,72
+Total,ethnicity/total,ethnicity,73
+Disability,disability,,74
+Behaviour and emotional,disability/behaviour-and-emotional,disability,75
+Hearing,disability/hearing,disability,76
+Manual dexterity,disability/manual-dexterity,disability,77
+Learning disability,disability/learning-disability,disability,78
+Mobility and gross motor,disability/mobility-and-gross-motor,disability,79
+Perception of physical danger,disability/perception-of-physical-danger,disability,80
+"Personal, self-care and continence",disability/personal-self-care-and-continence,disability,81
+Progressive conditions and physical health,disability/progressive-conditions-and-physical-health,disability,82
+Sight,disability/sight,disability,83
+Speech,disability/speech,disability,84
+Other,disability/other,disability,85
+Not stated,disability/not-stated,disability,86
+Total number of citations,disability/total-number-of-citations,disability,87
+No disability,disability/no-disability,disability,88
+Any disability,disability/any-disability,disability,89
+Inconsistent/missing,disability/inconsistent/missing,disability,90
+Total,disability/total,disability,91
+Religion,religion,,92
+Baha'i,religion/bahai,religion,93
+Buddhist,religion/buddhist,religion,94
+Christian,religion/christian,religion,95
+Hindu,religion/hindu,religion,96
+Jain,religion/jain,religion,97
+Jewish,religion/jewish,religion,98
+Muslim,religion/muslim,religion,99
+Pagan,religion/pagan,religion,100
+Sikh,religion/sikh,religion,101
+Zoroastrian,religion/zoroastrian,religion,102
+Other,religion/other,religion,103
+None,religion/none,religion,104
+Decline,religion/decline,religion,105
+Unknown,religion/unknown,religion,106
+Inconsistent/missing,religion/inconsistent/missing,religion,107
+Total,religion/total,religion,108
+Sexual orientation,sexual-orientation,,109
+Heterosexual,sexual-orientation/heterosexual,sexual-orientation,110
+Gay/Lesbian,sexual-orientation/gay/lesbian,sexual-orientation,111
+Bi-Sexual,sexual-orientation/bi-sexual,sexual-orientation,112
+Client asked and does not know or is not sure,sexual-orientation/client-asked-and-does-not-know-or-is-not-sure,sexual-orientation,113
+Not Stated,sexual-orientation/not-stated,sexual-orientation,114
+Other,sexual-orientation/other,sexual-orientation,115
+Inconsistent/missing,sexual-orientation/inconsistent/missing,sexual-orientation,116
+Total,sexual-orientation/total,sexual-orientation,117
+Referral Source,referral-source,,118
+"Self, family and friends subtotal",self-family-and-friends-subtotal,referral-source,119
+Self,self-family-and-friends-subtotal/self,self-family-and-friends-subtotal,120
+Other family and friends,self-family-and-friends-subtotal/other-family-and-friends,self-family-and-friends-subtotal,121
+Health services and social care subtotal,health-services-and-social-care-subtotal,referral-source,122
+GP,health-services-and-social-care-subtotal/gp,health-services-and-social-care-subtotal,123
+Hospital,health-services-and-social-care-subtotal/hospital,health-services-and-social-care-subtotal,124
+Social services,health-services-and-social-care-subtotal/social-services,health-services-and-social-care-subtotal,125
+Health - other,health-services-and-social-care-subtotal/health-other,health-services-and-social-care-subtotal,126
+Other community health,health-services-and-social-care-subtotal/health-other/other-community-health,health-services-and-social-care-subtotal/health-other,127
+Psychiatry,health-services-and-social-care-subtotal/health-other/psychiatry,health-services-and-social-care-subtotal/health-other,128
+A&E,health-services-and-social-care-subtotal/health-other/a-and-e,health-services-and-social-care-subtotal/health-other,129
+Syringe Exchange,health-services-and-social-care-subtotal/health-other/syringe-exchange,health-services-and-social-care-subtotal/health-other,130
+Community care assessment,health-services-and-social-care-subtotal/health-other/community-care-assessment,health-services-and-social-care-subtotal/health-other,131
+Children social services,health-services-and-social-care-subtotal/health-other/children-social-services,health-services-and-social-care-subtotal/health-other,132
+Criminal justice subtotal,criminal-justice-subtotal,referral-source,133
+Arrest referral/DIP,criminal-justice-subtotal/arrest-referral/dip,criminal-justice-subtotal,134
+Prison,criminal-justice-subtotal/prison,criminal-justice-subtotal,135
+Probation,criminal-justice-subtotal/probation,criminal-justice-subtotal,136
+Criminal justice - other,criminal-justice-subtotal/criminal-justice-other,criminal-justice-subtotal,137
+ATR,criminal-justice-subtotal/criminal-justice-other/atr,criminal-justice-subtotal/criminal-justice-other,138
+DRR,criminal-justice-subtotal/criminal-justice-other/drr,criminal-justice-subtotal/criminal-justice-other,139
+Community rehabilitation company,criminal-justice-subtotal/criminal-justice-other/community-rehabilitation-company,criminal-justice-subtotal/criminal-justice-other,140
+Liaison and diversion,criminal-justice-subtotal/criminal-justice-other/liaison-and-diversion,criminal-justice-subtotal/criminal-justice-other,141
+Other criminal justice,criminal-justice-subtotal/criminal-justice-other/other-criminal-justice,criminal-justice-subtotal/criminal-justice-other,142
+Substance misuse service subtotal,substance-misuse-service-subtotal,referral-source,143
+Drug service statutory,substance-misuse-service-subtotal/drug-service-statutory,substance-misuse-service-subtotal,144
+Drug service non-statutory,substance-misuse-service-subtotal/drug-service-non-statutory,substance-misuse-service-subtotal,145
+Community alcohol team,substance-misuse-service-subtotal/community-alcohol-team,substance-misuse-service-subtotal,146
+Other subtotal,other-subtotal,referral-source,147
+Other,other-subtotal/other,other-subtotal,148
+Other,other-subtotal/other/other,other-subtotal/other,149
+Other YP,other-subtotal/other/other-yp,other-subtotal/other,150
+Job centre plus,other-subtotal/other/job-centre-plus,other-subtotal/other,151
+Employment service,other-subtotal/other/employment-service,other-subtotal/other,152
+Other sex worker project,other-subtotal/other/other-sex-worker-project,other-subtotal/other,153
+Other treatment provider,other-subtotal/other/other-treatment-provider,other-subtotal/other,154
+Connexions,other-subtotal/other/connexions,other-subtotal/other,155
+Education service,other-subtotal/other/education-service,other-subtotal/other,156
+LAC,other-subtotal/other/lac,other-subtotal/other,157
+Employer,other-subtotal/other/employer,other-subtotal/other,158
+Other helplines & websites,other-subtotal/other/other-helplines-and-websites,other-subtotal/other,159
+Inconsistent/missing,inconsistent/missing,referral-source,160
+Total,total,referral-source,161
+Injecting Status,injecting-status,,162
+Never injected,injecting-status/never-injected,injecting-status,163
+Previously injected,injecting-status/previously-injected,injecting-status,164
+Currently injecting,injecting-status/currently-injecting,injecting-status,165
+Declined to answer,injecting-status/declined-to-answer,injecting-status,166
+Missing/inconsistent,injecting-status/missing/inconsistent,injecting-status,167
+Total,injecting-status/total,injecting-status,168
+Housing situation,housing-situation,,169
+No problem,housing-situation/no-problem,housing-situation,170
+Housing problem,housing-situation/housing-problem,housing-situation,171
+Urgent housing problem (NFA),housing-situation/urgent-housing-problem-nfa,housing-situation,172
+Other,housing-situation/other,housing-situation,173
+Inconsistent/missing,housing-situation/inconsistent/missing,housing-situation,174
+Total,housing-situation/total,housing-situation,175
+Parental status,parental-status,,176
+Parent living with children - Total,parental-status/parent-living-with-children-total,parental-status,177
+Other contact living with children - Total,parental-status/other-contact-living-with children-total,parental-status,178
+Parents not with children - Total,parental-status/parents-not-with-children-total,parental-status,179
+Not parent no contact with children - Total,parental-status/not-parent-no-contact-with-children-total,parental-status,180
+Incomplete data - Total,parental-status/incomplete data-total,parental-status,181
+Total - Total,parental-status/total-total,parental-status,182
+Parent living with children - Female,parental-status/parent-living-with-children-female,parental-status,183
+Other contact living with children - Female,parental-status/other-contact-living-with-children-female,parental-status,184
+Parents not with children - Female,parental-status/parents-not-with-children-female,parental-status,185
+Not parent no contact with children - Female,parental-status/not-parent-no-contact-with-children-female,parental-status,186
+Incomplete data - Female,parental-status/incomplete-data-female,parental-status,187
+Total - Female,parental-status/total-female,parental-status,188
+Parent living with children - Male,parental-status/parent-living-with-children-male,parental-status,189
+Other contact living with children - Male,parental-status/other-contact-living-with-children-male,parental-status,190
+Parents not with children - Male,parental-status/parents-not-with-children-male,parental-status,191
+Not parent no contact with children - Male,parental-status/not-parent-no-contact-with-children-male,parental-status,192
+Incomplete data - Male,parental-status/incomplete-data-male,parental-status,193
+Total - Male,parental-status/total-male,parental-status,194
+Total,parental-status/total,parental-status,195
+Number of children,number-of-children,,196
+Number of children,number-of-children/number-of-children,number-of-children,197
+Number of individuals living with children,number-of-children/number-of-individuals-living-with-children,number-of-children,198
+Average number of children living with people in treatment,number-of-children/average-number-of-children-living-with-people-in-treatment,number-of-children,199
+Help received or in contact with children's social care,help-received-or-in-contact-with-childrens-social-care,,200
+Early help,help-received-or-in-contact-with-childrens-social-care/early-help,help-received-or-in-contact-with-childrens-social-care,201
+Child in need,help-received-or-in-contact-with-childrens-social-care/child-in-need,help-received-or-in-contact-with-childrens-social-care,202
+Child protection plan,help-received-or-in-contact-with-childrens-social-care/child-protection-plan,help-received-or-in-contact-with-childrens-social-care,203
+Looked after child,help-received-or-in-contact-with-childrens-social-care/looked-after-child,help-received-or-in-contact-with-childrens-social-care,204
+No early help,help-received-or-in-contact-with-childrens-social-care/no-early-help,help-received-or-in-contact-with-childrens-social-care,205
+Missing,help-received-or-in-contact-with-childrens-social-care/missing,help-received-or-in-contact-with-childrens-social-care,206
+Total,help-received-or-in-contact-with-childrens-social-care/total,help-received-or-in-contact-with-childrens-social-care,207
+Mental health treatment need,mental-health-treatment-need,,208
+Community or other mental health services,mental-health-treatment-need/community-or-other-mental-health-services,mental-health-treatment-need,209
+Improving Access to Psychological Therapies (IAPT),mental-health-treatment-need/improving-access-to-psychological-therapies-iapt,mental-health-treatment-need,210
+Primary care mental health treatment,mental-health-treatment-need/primary-care-mental-health-treatment,mental-health-treatment-need,211
+NICE recommended mental health treatment,mental-health-treatment-need/nice-recommended-mental-health-treatment,mental-health-treatment-need,212
+Identified space in a health based place of safety for mental health crises,mental-health-treatment-need/identified-space-in-a-health-based-place-of-safety-for-mental-health-crises,mental-health-treatment-need,213
+Total individuals receiving any treatment for mental health,mental-health-treatment-need/total-individuals-receiving-any-treatment-for-mental-health,mental-health-treatment-need,214
+No treatment received for a mental health treatment need,mental-health-treatment-need/no-treatment-received-for-a-mental-health-treatment-need,mental-health-treatment-need,215
+Missing,mental-health-treatment-need/missing,mental-health-treatment-need,216
+Total,mental-health-treatment-need/total,mental-health-treatment-need,217
+Total individuals needing mental health treatment,mental-health-treatment-need/total-individuals-needing-mental-health-treatment,mental-health-treatment-need,218
+Total number of new presentations,mental-health-treatment-need/total-number-of-new-presentations,mental-health-treatment-need,219
