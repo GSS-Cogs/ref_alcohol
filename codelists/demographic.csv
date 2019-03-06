@@ -1,35 +1,45 @@
 Label,Notation,Parent Notation,Sort Priority
 All adults,all-adults,,1
-Age of household reference person (HRP) - 16-24,hrp/16-24,,2
-Age of household reference person (HRP) - 25-34,hrp/25-34,,3
-Age of household reference person (HRP) - 35-49,hrp/35-49,,4
-Age of household reference person (HRP) - 50-64,hrp/50-64,,5
-Age of household reference person (HRP) - 65 and over,hrp/65plus,,6
-Gender - Male,male,,7
-Gender - Female,female,,8
-Religion - Catholic,catholic,,9
-Religion - Protestant,protestant,,10
-Religion - Other,other,,11
-Health and Social Care Trust - Belfast,hsct/belfast,,12
-Health and Social Care Trust - Northern,hsct/northern,,13
-Health and Social Care Trust - South Eastern,hsct/south-eastern,,14
-Health and Social Care Trust - Southern,hsct/southern,,15
-Health and Social Care Trust - Western,hsct/western,,16
-Employment status - In paid employment,paid-employment,,17
-Employment status - Not in paid employment,not-in-paid-employment,,18
-"Marital status - Single, that is never married",single,,19
-Marital status - Married and living with husband / wife,married,,20
-Marital status - Married and separated from husband / wife,married-separated,,21
-Marital status - Divorced,divorced,,22
-Marital status - Widowed,widowed,,23
-Level of qualifications - Primary,primary,,24
-Level of qualifications - Secondary,secondary,,25
-Level of qualifications - Tertiary,tertiary,,26
-Dependants - Has dependants,dependants,,27
-Dependants - No dependants,no-dependants,,28
-Disability / illness - Has disability / illness,disability,,29
-Disability / illness - No disability / illness,no-disability,,30
-Area type - Belfast,belfast,,31
-"Area type - Urban, excluding Belfast",urban-excl-belfast,,32
-Area type - All urban,all-urban,,33
-Area type - Rural,rural,,34
+Age of household reference person (HRP),all-adults/hrp,all-adults,2
+16-24,all-adults/hrp/16-24,all-adults/hrp,3
+25-34,all-adults/hrp/25-34,all-adults/hrp,4
+35-49,all-adults/hrp/35-49,all-adults/hrp,5
+50-64,all-adults/hrp/50-64,all-adults/hrp,6
+65 and over,all-adults/hrp/65plus,all-adults/hrp,7
+Gender,gender,,8
+Male,gender/male,gender,9
+Female,gender/female,gender,10
+Religion,religion,,11
+Catholic,religion/catholic,religion,12
+Protestant,religion/protestant,religion,13
+Other,religion/other,religion,14
+Health and Social Care Trust,hsct,,15
+Belfast,hsct/belfast,hsct,16
+Northern,hsct/northern,hsct,17
+South Eastern,hsct/south-eastern,hsct,18
+Southern,hsct/southern,hsct,19
+Western,hsct/western,hsct,20
+Employment status ,employment-status,,21
+In paid employment,employment-status/paid-employment,employment-status,22
+Not in paid employment,employment-status/not-in-paid-employment,employment-status,23
+Marital status,marital-status,,24
+"Single, that is never married",marital-status/single,marital-status,25
+Married and living with husband / wife,marital-status/married,marital-status,26
+Married and separated from husband / wife,marital-status/married-separated,marital-status,27
+Divorced,marital-status/divorced,marital-status,28
+Widowed,marital-status/widowed,marital-status,29
+Level of qualifications,level-of-qualifications,,30
+Primary,level-of-qualifications/primary,level-of-qualifications,31
+Secondary,level-of-qualifications/secondary,level-of-qualifications,32
+Tertiary,level-of-qualifications/tertiary,level-of-qualifications,33
+Dependants,dependants,,34
+Has dependants,dependants/has-dependants,dependants,35
+No dependants,dependants/no-dependants,dependants,36
+Disability / illness,disability-illness,,37
+Has disability / illness,disability-illness/has-disability-illness,disability-illness,38
+No disability / illness,disability-illness/no-disability-illness,disability-illness,39
+Area type,area-type,,40
+Belfast,area-type/belfast,area-type,41
+"Urban, excluding Belfast",area-type/urban-excl-belfast,area-type,42
+All urban,area-type/all-urban,area-type,43
+Rural,area-type/rural,area-type,44

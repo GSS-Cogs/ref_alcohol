@@ -39,7 +39,7 @@ Representatives,representatives,qb:dimension,http://gss-data.org.uk/def/dimensio
 Respondents affected,respondents_affected,qb:dimension,http://gss-data.org.uk/def/dimension/respondents-affected,http://gss-data.org.uk/def/concept/respondents-affected/{respondents_affected},string,slugize
 Harm type,harm_type,qb:dimension,http://gss-data.org.uk/def/dimension/harm-type,http://gss-data.org.uk/def/concept/harm-type/{harm_type},string,slugize
 Harm level,harm_level,qb:dimension,http://gss-data.org.uk/def/dimension/harm-level,http://gss-data.org.uk/def/concept/harm-level/{harm_level},string,slugize
-Metric,metric,qb:dimension,http://gss-data.org.uk/def/dimension/metric,http://gss-data.org.uk/def/concept/metric/{metric},string,slugize
+Survey metric,survey_metric,qb:dimension,http://gss-data.org.uk/def/dimension/survey-metric,http://gss-data.org.uk/def/concept/survey-metric/{survey_metric},string,slugize
 Treatment Type,treatment_type,qb:dimension,http://gss-data.org.uk/def/dimension/treatment-type,http://gss-data.org.uk/def/concept/treatment-type/{treatment_type},string,slugize
 Trust,trust,qb:dimension,http://gss-data.org.uk/def/dimension/trust,http://gss-data.org.uk/def/concept/trust/{trust},string,slugize
 Service Type,service_type,qb:dimension,http://gss-data.org.uk/def/dimension/service-type,http://gss-data.org.uk/def/concept/service-type/{service_type},string,slugize

@@ -17,7 +17,7 @@ Representatives,Representatives,Dimension,http://gss-data.org.uk/def/concept-sch
 Respondents affected,Respondents affected,Dimension,http://gss-data.org.uk/def/concept-scheme/respondents-affected
 Harm type,Harm type,Dimension,http://gss-data.org.uk/def/concept-scheme/harm-type
 Harm level,Harm level,Dimension,http://gss-data.org.uk/def/concept-scheme/harm-level
-Metric,Metric that is used to measure responses to alcohol related issues,Dimension,http://gss-data.org.uk/def/concept-scheme/metric
+Survey metric,Survey metric that is used to measure responses to alcohol related issues,Dimension,http://gss-data.org.uk/def/concept-scheme/survey-metric
 Treatment Type,Treatment Type,Dimension,http://gss-data.org.uk/def/concept-scheme/treatment-type
 Trust,NHS trust,Dimension,http://gss-data.org.uk/def/concept-scheme/trust
 Service Type,Service Type,Dimension,http://gss-data.org.uk/def/concept-scheme/service-type
