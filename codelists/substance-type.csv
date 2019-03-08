@@ -4,3 +4,11 @@ Opiate,opiate,total,2
 Non-opiate only,non-opiate-only,total,3
 Non-opiate and Alcohol,non-opiate-and-alcohol,total,4
 Alcohol only,alcohol-only,total,5
+Opiate (not crack cocaine),opiate-not-crack-cocaine,total,6
+Both opiate and crack cocaine,both-opiate-and-crack-cocaine,total,7
+Crack cocaine (not opiate),crack-cocaine-not-opiate,total,8
+Cannabis,cannabis,total,9
+Cocaine,cocaine,total,10
+Amphetamine (other than ecstasy),amphetamine,total,11
+Benzodiazepine,benzodiazepine,total,12
+Other,other,total,13
