@@ -40,3 +40,6 @@ Rates of Duty,Rates of Duty,Measure,
 Alcohol Clearances,Alcohol Clearances,Measure,
 Basis of treatment,Basis of treatment,Dimension,http://gss-data.org.uk/def/concept-scheme/basis-of-treatment
 Substance type,Substance type,Dimension,http://gss-data.org.uk/def/concept-scheme/substance-type
+Count of new presentations to treatment,Count of new presentations to treatment,Measure,
+Count of children,Count of children,Measure,
+Count of clients in treatment,Count of clients in treatment,Measure,
