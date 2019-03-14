@@ -3,7 +3,7 @@ Alcohol Affordability,alcohol-affordability,,1
 Alcohol price index,alcohol-affordability/alcohol-price-index,alcohol-affordability,2
 Retail prices index (all items),alcohol-affordability/retail-prices-index-all-items,alcohol-affordability,3
 Alcohol price index relative to Retail price index (all items),alcohol-affordability/alcohol-price-index-relative-to-retail-price-index-all-items,alcohol-affordability,4
-Real household disposable income,alcohol-affordability/real-household-disposable income,alcohol-affordability,5
+Real household disposable income,alcohol-affordability/real-household-disposable-income,alcohol-affordability,5
 Real disposable income per adult (18+),alcohol-affordability/real-disposable-income-per-adult,alcohol-affordability,6
 Affordability of alcohol index on a per capita basis,alcohol-affordability/affordability-of-alcohol-index-on-a-per-capita-basis,alcohol-affordability,7
 Alcohol Specific Deaths,alcohol-specific-deaths,,8
@@ -16,7 +16,7 @@ Household expenditure Total,household-expenditure/household-expenditure-total,ho
 Expenditure on alcohol as a percentage of expenditure,household-expenditure/expenditure-on-alcohol-as-a-percentage-of-expenditure,household-expenditure,15
 Prescriptions,prescriptions,,16
 All prescription settings,prescriptions/all-prescription-settings,prescriptions,17
-Prescribed in primary care,prescriptions/prescribed-in-primary care,prescriptions,18
+Prescribed in primary care,prescriptions/prescribed-in-primary-care,prescriptions,18
 Prescribed in NHS hospitals,prescriptions/prescribed-in-nhs-hospitals,prescriptions,19
 Net Ingredient Cost,prescriptions/net-ingredient-cost,prescriptions,20
 Average Net Ingredient Cost per item,prescriptions/average-net-ingredient-cost-per-item,prescriptions,21
