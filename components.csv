@@ -43,3 +43,8 @@ Substance type,Substance type,Dimension,http://gss-data.org.uk/def/concept-schem
 Count of new presentations to treatment,Count of new presentations to treatment,Measure,
 Count of children,Count of children,Measure,
 Count of clients in treatment,Count of clients in treatment,Measure,
+Metric,Metric being measured,Dimension,http://gss-data.org.uk/def/concept-scheme/metric
+Ratio,Ratio,Measure,
+Household expenditure,Household expenditure,Measure,
+Prescription item,Prescription item,Dimension,http://gss-data.org.uk/def/concept-scheme/prescription-item
+GBP Total,GBP Total,Measure,

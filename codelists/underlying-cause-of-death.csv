@@ -1,16 +1,21 @@
 Label,Notation,Parent Notation,Sort Priority
-Accidental poisoning by and exposure to alcohol (X45),x45,,1
-Alcohol induced chronic pancreatitis (K86.0),k86-0,,2
-Alcoholic cardiomyopathy (I42.6),i42-6,,3
-Alcoholic gastritis (K29.2),k29-2,,4
-Alcoholic liver disease (K70),k70,,5
-Alcoholic polyneuropathy (G62.1),g62-1,,6
-"Chronic hepatitis, not elsewhere classified (K73)",k73,,7
-Degeneration of nervous system due to alcohol (G31.2),g31-2,,8
-Fibrosis and cirrhosis of liver (K74) (Excluding K74.3-K74.5 - Biliary cirrhosis),k74,,9
-Intentional self-poisoning by and exposure to alcohol (X65),x65,,10
-"Intentional self-poisoning by and exposure to alcohol or poisoning by and exposure to alcohol, undetermined intent (X65, Y15)",x65-y15,,11
-Mental and behavioural disorders due to use of alcohol (F10),f10,,12
-"Poisoning by and exposure to alcohol, undetermined intent (Y15)",y15,,13
-"All other alcohol related deaths (E24.4, G31.2, G62.1, G72.1, I42.6, K29.2, K70, K85.2, Q86.0, R78.0, K86.0)",all-other-alcohol-related-deaths,,14
+Accidental poisoning by and exposure to alcohol (X45),x45,all-alcohol-related-deaths,1
+Alcohol induced chronic pancreatitis (K86.0),k86-0,all-alcohol-related-deaths,2
+Alcoholic cardiomyopathy (I42.6),i42-6,all-alcohol-related-deaths,3
+Alcoholic gastritis (K29.2),k29-2,all-alcohol-related-deaths,4
+Alcoholic liver disease (K70),k70,all-alcohol-related-deaths,5
+Alcoholic polyneuropathy (G62.1),g62-1,all-alcohol-related-deaths,6
+"Chronic hepatitis, not elsewhere classified (K73)",k73,all-alcohol-related-deaths,7
+Degeneration of nervous system due to alcohol (G31.2),g31-2,all-alcohol-related-deaths,8
+Fibrosis and cirrhosis of liver (K74) (Excluding K74.3-K74.5 - Biliary cirrhosis),k74,all-alcohol-related-deaths,9
+Intentional self-poisoning by and exposure to alcohol (X65),x65,all-alcohol-related-deaths,10
+"Intentional self-poisoning by and exposure to alcohol or poisoning by and exposure to alcohol, undetermined intent (X65, Y15)",x65-y15,all-alcohol-related-deaths,11
+Mental and behavioural disorders due to use of alcohol (F10),f10,all-alcohol-related-deaths,12
+"Poisoning by and exposure to alcohol, undetermined intent (Y15)",y15,all-alcohol-related-deaths,13
+"All other alcohol related deaths (E24.4, G31.2, G62.1, G72.1, I42.6, K29.2, K70, K85.2, Q86.0, R78.0, K86.0)",all-other-alcohol-related-deaths,all-alcohol-related-deaths,14
 All alcohol related deaths,all-alcohol-related-deaths,,15
+Alcohol-induced pseudo-Cushing's syndrome (E24.4),e24-4,all-alcohol-related-deaths,16
+Alcoholic myopathy (G72.1),g72-1,all-alcohol-related-deaths,17
+Alcohol-induced acute pancreatitis (K85.2),k85-2,all-alcohol-related-deaths,18
+Fetal alcohol syndrome (dysmorphic) (Q86.0),q86-0,all-alcohol-related-deaths,19
+Excess alcohol blood levels (R78.0),r78-0,all-alcohol-related-deaths,20

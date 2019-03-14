@@ -92,5 +92,13 @@
     "url": "codelists/substance-type.csv",
     "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
     "rdfs:label": "Substance type"
+  }, {
+    "url": "codelists/metric.csv",
+    "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
+    "rdfs:label": "Metric"
+  }, {
+    "url": "codelists/prescription-item.csv",
+    "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
+    "rdfs:label": "Prescription item"
   }]
 }
