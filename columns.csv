@@ -1,4 +1,4 @@
-title,name,component_attachment,property_template,value_template,datatype,value_transformation
+title,name,component_attachment,property_template,value_template,datatype,value_transformation,regex
 Measure Type,measure_type,qb:dimension,http://purl.org/linked-data/cube#measureType,http://gss-data.org.uk/def/measure/{measure_type},string,slugize
 Count,count,qb:measure,http://gss-data.org.uk/def/measure/count,,number,
 Average Count,average_count,qb:measure,http://gss-data.org.uk/def/measure/average-count,,number,
@@ -21,9 +21,9 @@ Volume,volume,qb:measure,http://gss-data.org.uk/def/measure/volume,,number,
 Ratio,ratio,qb:measure,http://gss-data.org.uk/def/measure/ratio,,number,
 GBP Total,gbp_total,qb:measure,http://gss-data.org.uk/def/measure/gbp-total,,number,
 Household expenditure,household_expenditure,qb:measure,http://gss-data.org.uk/def/measure/household-expenditure,,number,
-Period,period,qb:dimension,http://purl.org/linked-data/sdmx/2009/dimension#refPeriod,http://reference.data.gov.uk/id/{+period},string,
-Year,year,qb:dimension,http://purl.org/linked-data/sdmx/2009/dimension#refPeriod,http://reference.data.gov.uk/id/year/{year},string,
-Sex,sex,qb:dimension,http://purl.org/linked-data/sdmx/2009/dimension#sex,http://purl.org/linked-data/sdmx/2009/code#sex-{sex},string,
+Period,period,qb:dimension,http://purl.org/linked-data/sdmx/2009/dimension#refPeriod,http://reference.data.gov.uk/id/{+period},string,,^(year/[0-9]{4}|gregorian-interval/.*|month/[0-9]{4}-[0-9]{2}|day/[0-9]{4}-[0-9]{2}-[0-9]{2}|quarter/[0-9]{4}-Q[1-4]|government-year/[0-9]{4}-[0-9]{4})$
+Year,year,qb:dimension,http://purl.org/linked-data/sdmx/2009/dimension#refPeriod,http://reference.data.gov.uk/id/year/{year},string,,^[0-9]{4}$
+Sex,sex,qb:dimension,http://purl.org/linked-data/sdmx/2009/dimension#sex,http://purl.org/linked-data/sdmx/2009/code#sex-{sex},string,,^(M|F|T)$
 Unit,unit,qb:attribute,http://purl.org/linked-data/sdmx/2009/attribute#unitMeasure,http://gss-data.org.uk/def/concept/measurement-units/{unit},string,unitize
 Value,value,,http://gss-data.org.uk/def/measure/{measure_type},,number,
 Age,age,qb:dimension,http://purl.org/linked-data/sdmx/2009/dimension#age,http://gss-data.org.uk/def/concept/ages/{age},string,slugize
