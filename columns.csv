@@ -1,60 +1,62 @@
 title,name,component_attachment,property_template,value_template,datatype,value_transformation,regex
-Measure Type,measure_type,qb:dimension,http://purl.org/linked-data/cube#measureType,http://gss-data.org.uk/def/measure/{measure_type},string,slugize
-Count,count,qb:measure,http://gss-data.org.uk/def/measure/count,,number,
-Average Count,average_count,qb:measure,http://gss-data.org.uk/def/measure/average-count,,number,
-Percentage,percentage,qb:measure,http://gss-data.org.uk/def/measure/percentage,,number,
-Quantities Released for Consumption,quantities_released_for_consumption,qb:measure,http://gss-data.org.uk/def/measure/quantities-released-for-consumption,,number,
-Revenue,revenue,qb:measure,http://gss-data.org.uk/def/measure/revenue,,number,
-Production of Potable Spirits,production_of_potable_spirits,qb:measure,http://gss-data.org.uk/def/measure/production-of-potable-spirits,,number,
-Net Quantities of Spirits Charged with Duty,net_quantities_of_spirit_charged_with_duty,qb:measure,http://gss-data.org.uk/def/measure/net-quantities-of-spirits-charged-with-duty,,number,
-UK Beer Production,uk_beer,qb:measure,http://gss-data.org.uk/def/measure/uk-beer-production,,number,
-Beer Clearances,beer_clearances,qb:measure,http://gss-data.org.uk/def/measure/beer-clearances,,number,
-Alcohol Clearances,alcohol_clearances,qb:measure,http://gss-data.org.uk/def/measure/alcohol-clearances,,number,
-Cider Clearances,cider_clearances,qb:measure,http://gss-data.org.uk/def/measure/cider-clearances,,number,
-Rates of Duty,rates_of_duty,qb:measure,http://gss-data.org.uk/def/measure/rates-of-duty,,number,
-"Rate per 1,000 accidents",rate_per_1000_accidents,qb:measure,http://gss-data.org.uk/def/measure/rate-per-1-000-accidents,,number,
-"Rate per 100,000 persons",rate_per_100_000_persons,qb:measure,http://gss-data.org.uk/def/measure/rate-per-100-000-persons,,number,
-Count of new presentations to treatment,count_of_new_presentations_to_treatment,qb:measure,http://gss-data.org.uk/def/measure/count-of-new-presentations-to-treatment,,number,
-Count of children,count_of_children,qb:measure,http://gss-data.org.uk/def/measure/count-of-children,,number,
-Count of clients in treatment,count_of_clients_in_treatment,qb:measure,http://gss-data.org.uk/def/measure/count-of-clients-in-treatment,,number,
-Volume,volume,qb:measure,http://gss-data.org.uk/def/measure/volume,,number,
-Ratio,ratio,qb:measure,http://gss-data.org.uk/def/measure/ratio,,number,
-GBP Total,gbp_total,qb:measure,http://gss-data.org.uk/def/measure/gbp-total,,number,
-Household expenditure,household_expenditure,qb:measure,http://gss-data.org.uk/def/measure/household-expenditure,,number,
+Measure Type,measure_type,qb:dimension,http://purl.org/linked-data/cube#measureType,http://gss-data.org.uk/def/measure/{measure_type},string,slugize,
+Count,count,qb:measure,http://gss-data.org.uk/def/measure/count,,number,,
+Average Count,average_count,qb:measure,http://gss-data.org.uk/def/measure/average-count,,number,,
+Percentage,percentage,qb:measure,http://gss-data.org.uk/def/measure/percentage,,number,,
+Quantities Released for Consumption,quantities_released_for_consumption,qb:measure,http://gss-data.org.uk/def/measure/quantities-released-for-consumption,,number,,
+Revenue,revenue,qb:measure,http://gss-data.org.uk/def/measure/revenue,,number,,
+Production of Potable Spirits,production_of_potable_spirits,qb:measure,http://gss-data.org.uk/def/measure/production-of-potable-spirits,,number,,
+Net Quantities of Spirits Charged with Duty,net_quantities_of_spirit_charged_with_duty,qb:measure,http://gss-data.org.uk/def/measure/net-quantities-of-spirits-charged-with-duty,,number,,
+UK Beer Production,uk_beer,qb:measure,http://gss-data.org.uk/def/measure/uk-beer-production,,number,,
+Beer Clearances,beer_clearances,qb:measure,http://gss-data.org.uk/def/measure/beer-clearances,,number,,
+Alcohol Clearances,alcohol_clearances,qb:measure,http://gss-data.org.uk/def/measure/alcohol-clearances,,number,,
+Cider Clearances,cider_clearances,qb:measure,http://gss-data.org.uk/def/measure/cider-clearances,,number,,
+Rates of Duty,rates_of_duty,qb:measure,http://gss-data.org.uk/def/measure/rates-of-duty,,number,,
+"Rate per 1,000 accidents",rate_per_1000_accidents,qb:measure,http://gss-data.org.uk/def/measure/rate-per-1-000-accidents,,number,,
+"Rate per 100,000 persons",rate_per_100_000_persons,qb:measure,http://gss-data.org.uk/def/measure/rate-per-100-000-persons,,number,,
+Count of new presentations to treatment,count_of_new_presentations_to_treatment,qb:measure,http://gss-data.org.uk/def/measure/count-of-new-presentations-to-treatment,,number,,
+Count of children,count_of_children,qb:measure,http://gss-data.org.uk/def/measure/count-of-children,,number,,
+Count of clients in treatment,count_of_clients_in_treatment,qb:measure,http://gss-data.org.uk/def/measure/count-of-clients-in-treatment,,number,,
+Count of casualties,count_of_casualties,qb:measure,http://gss-data.org.uk/def/measure/count-of-casualties,,number,,
+Count of accidents,count_of_accidents,qb:measure,http://gss-data.org.uk/def/measure/count-of-accidents,,number,,
+Volume,volume,qb:measure,http://gss-data.org.uk/def/measure/volume,,number,,
+Ratio,ratio,qb:measure,http://gss-data.org.uk/def/measure/ratio,,number,,
+GBP Total,gbp_total,qb:measure,http://gss-data.org.uk/def/measure/gbp-total,,number,,
+Household expenditure,household_expenditure,qb:measure,http://gss-data.org.uk/def/measure/household-expenditure,,number,,
 Period,period,qb:dimension,http://purl.org/linked-data/sdmx/2009/dimension#refPeriod,http://reference.data.gov.uk/id/{+period},string,,^(year/[0-9]{4}|gregorian-interval/.*|month/[0-9]{4}-[0-9]{2}|day/[0-9]{4}-[0-9]{2}-[0-9]{2}|quarter/[0-9]{4}-Q[1-4]|government-year/[0-9]{4}-[0-9]{4})$
 Year,year,qb:dimension,http://purl.org/linked-data/sdmx/2009/dimension#refPeriod,http://reference.data.gov.uk/id/year/{year},string,,^[0-9]{4}$
 Sex,sex,qb:dimension,http://purl.org/linked-data/sdmx/2009/dimension#sex,http://purl.org/linked-data/sdmx/2009/code#sex-{sex},string,,^(M|F|T)$
-Unit,unit,qb:attribute,http://purl.org/linked-data/sdmx/2009/attribute#unitMeasure,http://gss-data.org.uk/def/concept/measurement-units/{unit},string,unitize
-Value,value,,http://gss-data.org.uk/def/measure/{measure_type},,number,
-Age,age,qb:dimension,http://purl.org/linked-data/sdmx/2009/dimension#age,http://gss-data.org.uk/def/concept/ages/{age},string,slugize
-CI Upper,ci_upper,qb:attribute,http://gss-data.org.uk/def/attribute/ci-upper,,number,
-CI Lower,ci_lower,qb:attribute,http://gss-data.org.uk/def/attribute/ci-lower,,number,
-Underlying Cause of Death,underlying_cause_of_death,qb:dimension,http://gss-data.org.uk/def/dimension/underlying-cause-of-death,http://gss-data.org.uk/def/concept/underlying-cause-of-death/{underlying_cause_of_death},string,slugize
-Health and Social Care Trust,health_and_social_care_trust,qb:dimension,http://gss-data.org.uk/def/dimension/health-and-social-care-trust,http://gss-data.org.uk/def/concept/health-and-social-care-trust/{health_and_social_care_trust},string,slugize
-Deprivation Quintile,deprivation_quintile,qb:dimension,http://gss-data.org.uk/def/dimension/deprivation-quintile,http://gss-data.org.uk/def/concept/deprivation-quintiles/{deprivation_quintile},string,
-Cause of Death,cause_of_death,qb:dimension,http://gss-data.org.uk/def/dimension/cause-of-death,http://gss-data.org.uk/def/concept/cause-of-death/{cause_of_death},string,slugize
-Alcohol Duty,alcohol_duty,qb:dimension,http://gss-data.org.uk/def/dimension/alcohol-duty,http://gss-data.org.uk/def/concept/alcohol-duty/{alcohol_duty},string,slugize
-Alcohol Content,alcohol_content,qb:dimension,http://gss-data.org.uk/def/dimension/alcohol-content,http://gss-data.org.uk/def/concept/alcohol-content/{alcohol_content},string,slugize
-Alcohol Category,alcohol_category,qb:dimension,http://gss-data.org.uk/def/dimension/alcohol-category,http://gss-data.org.uk/def/concept/alcohol-category/{alcohol_category},string,slugize
-Severity,severity,qb:dimension,http://gss-data.org.uk/def/dimension/severity,http://gss-data.org.uk/def/concept/severity/{severity},string,slugize
-Demographic,demographic,qb:dimension,http://gss-data.org.uk/def/dimension/demographic,http://gss-data.org.uk/def/concept/demographic/{demographic},string,slugize
-Alcohol related issue response,alcohol_related_issue_response,qb:dimension,http://gss-data.org.uk/def/dimension/alcohol-related-issue-response,http://gss-data.org.uk/def/concept/alcohol-related-issue-response/{alcohol_related_issue_response},string,slugize
-Alcohol related issue,alcohol_related_issue,qb:dimension,http://gss-data.org.uk/def/dimension/alcohol-related-issue,http://gss-data.org.uk/def/concept/alcohol-related-issue/{alcohol_related_issue},string,slugize
-Alcohol related issue importance,alcohol_related_issue_importance,qb:dimension,http://gss-data.org.uk/def/dimension/alcohol-related-issue-importance,http://gss-data.org.uk/def/concept/alcohol-related-issue-importance/{alcohol_related_issue_importance},string,slugize
-Representatives,representatives,qb:dimension,http://gss-data.org.uk/def/dimension/representatives,http://gss-data.org.uk/def/concept/representatives/{representatives},string,slugize
-Respondents affected,respondents_affected,qb:dimension,http://gss-data.org.uk/def/dimension/respondents-affected,http://gss-data.org.uk/def/concept/respondents-affected/{respondents_affected},string,slugize
-Harm type,harm_type,qb:dimension,http://gss-data.org.uk/def/dimension/harm-type,http://gss-data.org.uk/def/concept/harm-type/{harm_type},string,slugize
-Harm level,harm_level,qb:dimension,http://gss-data.org.uk/def/dimension/harm-level,http://gss-data.org.uk/def/concept/harm-level/{harm_level},string,slugize
-Survey metric,survey_metric,qb:dimension,http://gss-data.org.uk/def/dimension/survey-metric,http://gss-data.org.uk/def/concept/survey-metric/{survey_metric},string,slugize
-Treatment Type,treatment_type,qb:dimension,http://gss-data.org.uk/def/dimension/treatment-type,http://gss-data.org.uk/def/concept/treatment-type/{treatment_type},string,slugize
-Trust,trust,qb:dimension,http://gss-data.org.uk/def/dimension/trust,http://gss-data.org.uk/def/concept/trust/{trust},string,slugize
-Service Type,service_type,qb:dimension,http://gss-data.org.uk/def/dimension/service-type,http://gss-data.org.uk/def/concept/service-type/{service_type},string,slugize
-Residential Status,residential_status,qb:dimension,http://gss-data.org.uk/def/dimension/residential-status,http://gss-data.org.uk/def/concept/residential-status/{residential_status},string,slugize
-Geography,geography,qb:dimension,http://purl.org/linked-data/sdmx/2009/dimension#refArea,http://statistics.data.gov.uk/id/statistical-geography/{geography},string,
-Revision,revision,qb:dimension,http://gss-data.org.uk/def/dimension/revision,http://gss-data.org.uk/def/concept/revisions/{revision},string,slugize
-Indicator,indicator,qb:dimension,http://gss-data.org.uk/def/dimension/indicator,http://gss-data.org.uk/def/concept/indicator/{indicator},string,
-NIMDM Type,nimdm,qb:dimension,http://gss-data.org.uk/def/dimension/nimdm,http://gss-data.org.uk/def/concept/nimdm/{nimdm},string,
-Basis of treatment,basis_of_treatment,qb:dimension,http://gss-data.org.uk/def/dimension/basis-of-treatment,http://gss-data.org.uk/def/concept/basis-of-treatment/{basis_of_treatment},string,
-Substance type,substance_type,qb:dimension,http://gss-data.org.uk/def/dimension/substance-type,http://gss-data.org.uk/def/concept/substance-type/{substance_type},string,
-Metric,metric,qb:dimension,http://gss-data.org.uk/def/dimension/metric,http://gss-data.org.uk/def/concept/metric/{metric},string,
-Prescription item,prescription_item,qb:dimension,http://gss-data.org.uk/def/dimension/prescription-item,http://gss-data.org.uk/def/concept/prescription-item/{prescription_item},string,
+Unit,unit,qb:attribute,http://purl.org/linked-data/sdmx/2009/attribute#unitMeasure,http://gss-data.org.uk/def/concept/measurement-units/{unit},string,unitize,
+Value,value,,http://gss-data.org.uk/def/measure/{measure_type},,number,,
+Age,age,qb:dimension,http://purl.org/linked-data/sdmx/2009/dimension#age,http://gss-data.org.uk/def/concept/ages/{age},string,slugize,
+CI Upper,ci_upper,qb:attribute,http://gss-data.org.uk/def/attribute/ci-upper,,number,,
+CI Lower,ci_lower,qb:attribute,http://gss-data.org.uk/def/attribute/ci-lower,,number,,
+Underlying Cause of Death,underlying_cause_of_death,qb:dimension,http://gss-data.org.uk/def/dimension/underlying-cause-of-death,http://gss-data.org.uk/def/concept/underlying-cause-of-death/{underlying_cause_of_death},string,slugize,
+Health and Social Care Trust,health_and_social_care_trust,qb:dimension,http://gss-data.org.uk/def/dimension/health-and-social-care-trust,http://gss-data.org.uk/def/concept/health-and-social-care-trust/{health_and_social_care_trust},string,slugize,
+Deprivation Quintile,deprivation_quintile,qb:dimension,http://gss-data.org.uk/def/dimension/deprivation-quintile,http://gss-data.org.uk/def/concept/deprivation-quintiles/{deprivation_quintile},string,,
+Cause of Death,cause_of_death,qb:dimension,http://gss-data.org.uk/def/dimension/cause-of-death,http://gss-data.org.uk/def/concept/cause-of-death/{cause_of_death},string,slugize,
+Alcohol Duty,alcohol_duty,qb:dimension,http://gss-data.org.uk/def/dimension/alcohol-duty,http://gss-data.org.uk/def/concept/alcohol-duty/{alcohol_duty},string,slugize,
+Alcohol Content,alcohol_content,qb:dimension,http://gss-data.org.uk/def/dimension/alcohol-content,http://gss-data.org.uk/def/concept/alcohol-content/{alcohol_content},string,slugize,
+Alcohol Category,alcohol_category,qb:dimension,http://gss-data.org.uk/def/dimension/alcohol-category,http://gss-data.org.uk/def/concept/alcohol-category/{alcohol_category},string,slugize,
+Severity,severity,qb:dimension,http://gss-data.org.uk/def/dimension/severity,http://gss-data.org.uk/def/concept/severity/{severity},string,slugize,
+Demographic,demographic,qb:dimension,http://gss-data.org.uk/def/dimension/demographic,http://gss-data.org.uk/def/concept/demographic/{demographic},string,slugize,
+Alcohol related issue response,alcohol_related_issue_response,qb:dimension,http://gss-data.org.uk/def/dimension/alcohol-related-issue-response,http://gss-data.org.uk/def/concept/alcohol-related-issue-response/{alcohol_related_issue_response},string,slugize,
+Alcohol related issue,alcohol_related_issue,qb:dimension,http://gss-data.org.uk/def/dimension/alcohol-related-issue,http://gss-data.org.uk/def/concept/alcohol-related-issue/{alcohol_related_issue},string,slugize,
+Alcohol related issue importance,alcohol_related_issue_importance,qb:dimension,http://gss-data.org.uk/def/dimension/alcohol-related-issue-importance,http://gss-data.org.uk/def/concept/alcohol-related-issue-importance/{alcohol_related_issue_importance},string,slugize,
+Representatives,representatives,qb:dimension,http://gss-data.org.uk/def/dimension/representatives,http://gss-data.org.uk/def/concept/representatives/{representatives},string,slugize,
+Respondents affected,respondents_affected,qb:dimension,http://gss-data.org.uk/def/dimension/respondents-affected,http://gss-data.org.uk/def/concept/respondents-affected/{respondents_affected},string,slugize,
+Harm type,harm_type,qb:dimension,http://gss-data.org.uk/def/dimension/harm-type,http://gss-data.org.uk/def/concept/harm-type/{harm_type},string,slugize,
+Harm level,harm_level,qb:dimension,http://gss-data.org.uk/def/dimension/harm-level,http://gss-data.org.uk/def/concept/harm-level/{harm_level},string,slugize,
+Survey metric,survey_metric,qb:dimension,http://gss-data.org.uk/def/dimension/survey-metric,http://gss-data.org.uk/def/concept/survey-metric/{survey_metric},string,slugize,
+Treatment Type,treatment_type,qb:dimension,http://gss-data.org.uk/def/dimension/treatment-type,http://gss-data.org.uk/def/concept/treatment-type/{treatment_type},string,slugize,
+Trust,trust,qb:dimension,http://gss-data.org.uk/def/dimension/trust,http://gss-data.org.uk/def/concept/trust/{trust},string,slugize,
+Service Type,service_type,qb:dimension,http://gss-data.org.uk/def/dimension/service-type,http://gss-data.org.uk/def/concept/service-type/{service_type},string,slugize,
+Residential Status,residential_status,qb:dimension,http://gss-data.org.uk/def/dimension/residential-status,http://gss-data.org.uk/def/concept/residential-status/{residential_status},string,slugize,
+Geography,geography,qb:dimension,http://purl.org/linked-data/sdmx/2009/dimension#refArea,http://statistics.data.gov.uk/id/statistical-geography/{geography},string,,
+Revision,revision,qb:dimension,http://gss-data.org.uk/def/dimension/revision,http://gss-data.org.uk/def/concept/revisions/{revision},string,slugize,
+Indicator,indicator,qb:dimension,http://gss-data.org.uk/def/dimension/indicator,http://gss-data.org.uk/def/concept/indicator/{indicator},string,,
+NIMDM Type,nimdm,qb:dimension,http://gss-data.org.uk/def/dimension/nimdm,http://gss-data.org.uk/def/concept/nimdm/{nimdm},string,,
+Basis of treatment,basis_of_treatment,qb:dimension,http://gss-data.org.uk/def/dimension/basis-of-treatment,http://gss-data.org.uk/def/concept/basis-of-treatment/{basis_of_treatment},string,,
+Substance type,substance_type,qb:dimension,http://gss-data.org.uk/def/dimension/substance-type,http://gss-data.org.uk/def/concept/substance-type/{substance_type},string,,
+Metric,metric,qb:dimension,http://gss-data.org.uk/def/dimension/metric,http://gss-data.org.uk/def/concept/metric/{metric},string,,
+Prescription item,prescription_item,qb:dimension,http://gss-data.org.uk/def/dimension/prescription-item,http://gss-data.org.uk/def/concept/prescription-item/{prescription_item},string,,
