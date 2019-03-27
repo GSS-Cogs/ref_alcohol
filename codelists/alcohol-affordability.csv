@@ -1,0 +1,7 @@
+Label,Notation,Parent Notation,Sort Priority
+Alcohol price index,alcohol-price-index,,1
+Retail prices index (all items),retail-prices-index-all-items,,2
+Alcohol price index relative to Retail price index (all items),alcohol-price-index-relative-to-retail-price-index-all-items,,3
+Real household disposable income,real-household-disposable-income,,4
+Real disposable income per adult (18+),real-disposable-income-per-adult,,5
+Affordability of alcohol index on a per capita basis,affordability-of-alcohol-index-on-a-per-capita-basis,,6

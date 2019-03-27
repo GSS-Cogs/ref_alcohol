@@ -45,8 +45,10 @@ Count of children,Count of children,Measure,
 Count of clients in treatment,Count of clients in treatment,Measure,
 Count of casualties,Count of casualties,Measure,
 Count of accidents,Count of accidents,Measure,
-Metric,Metric being measured,Dimension,http://gss-data.org.uk/def/concept-scheme/metric
 Ratio,Ratio,Measure,
 Household expenditure,Household expenditure,Measure,
 Prescription item,Prescription item,Dimension,http://gss-data.org.uk/def/concept-scheme/prescription-item
+Household expenditure,Household expenditure,Dimension,http://gss-data.org.uk/def/concept-scheme/household-expenditure
+Alcohol affordability,Alcohol affordability,Dimension,http://gss-data.org.uk/def/concept-scheme/alcohol-affordability
+Prescription,Prescription,Dimension,http://gss-data.org.uk/def/concept-scheme/prescription
 GBP Total,GBP Total,Measure,

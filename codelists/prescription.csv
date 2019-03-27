@@ -1,0 +1,8 @@
+Label,Notation,Parent Notation,Sort Priority
+All prescription settings,all-prescription-settings,,1
+Prescribed in primary care,prescribed-in-primary-care,,2
+Prescribed in NHS hospitals,prescribed-in-nhs-hospitals,,3
+Net Ingredient Cost,net-ingredient-cost,,4
+Average Net Ingredient Cost per item,average-net-ingredient-cost-per-item,,5
+Prescription items,prescription-items,,6
+Prescription items per 100000 population,prescription-items-per-100000-population,,7
