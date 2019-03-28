@@ -48,7 +48,7 @@ Count of accidents,Count of accidents,Measure,
 Ratio,Ratio,Measure,
 Household expenditure,Household expenditure,Measure,
 Prescription item,Prescription item,Dimension,http://gss-data.org.uk/def/concept-scheme/prescription-item
-Household expenditure,Household expenditure,Dimension,http://gss-data.org.uk/def/concept-scheme/household-expenditure
+Household expenditure type,Household expenditure type,Dimension,http://gss-data.org.uk/def/concept-scheme/household-expenditure-type
 Alcohol affordability,Alcohol affordability,Dimension,http://gss-data.org.uk/def/concept-scheme/alcohol-affordability
 Prescription,Prescription,Dimension,http://gss-data.org.uk/def/concept-scheme/prescription
 GBP Total,GBP Total,Measure,

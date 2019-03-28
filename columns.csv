@@ -59,6 +59,6 @@ NIMDM Type,nimdm,qb:dimension,http://gss-data.org.uk/def/dimension/nimdm,http://
 Basis of treatment,basis_of_treatment,qb:dimension,http://gss-data.org.uk/def/dimension/basis-of-treatment,http://gss-data.org.uk/def/concept/basis-of-treatment/{basis_of_treatment},string,,
 Substance type,substance_type,qb:dimension,http://gss-data.org.uk/def/dimension/substance-type,http://gss-data.org.uk/def/concept/substance-type/{substance_type},string,,
 Prescription item,prescription_item,qb:dimension,http://gss-data.org.uk/def/dimension/prescription-item,http://gss-data.org.uk/def/concept/prescription-item/{prescription_item},string,,
-Household expenditure,household_expenditure,qb:dimension,http://gss-data.org.uk/def/dimension/household-expenditure,http://gss-data.org.uk/def/concept/household-expenditure/{household_expenditure},string,,
+Household expenditure type,household_expenditure_type,qb:dimension,http://gss-data.org.uk/def/dimension/household-expenditure-type,http://gss-data.org.uk/def/concept/household-expenditure-type/{household_expenditure_type},string,,
 Alcohol affordability,alcohol_affordability,qb:dimension,http://gss-data.org.uk/def/dimension/alcohol-affordability,http://gss-data.org.uk/def/concept/alcohol-affordability/{alcohol_affordability},string,,
 Prescription,prescription,qb:dimension,http://gss-data.org.uk/def/dimension/prescription,http://gss-data.org.uk/def/concept/prescription/{prescription},string,,
