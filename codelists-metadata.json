@@ -2,111 +2,111 @@
   "@context": ["http://www.w3.org/ns/csvw", {"@language": "en"}],
   "tables": [{
     "url": "codelists/alcohol-category.csv",
-    "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
+    "tableSchema": "https://gss-cogs.github.io/ref_common/codelist-schema.json",
     "rdfs:label": "Alcohol Category"
   }, {
     "url": "codelists/alcohol-content.csv",
-    "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
+    "tableSchema": "https://gss-cogs.github.io/ref_common/codelist-schema.json",
     "rdfs:label": "Alcohol Content"
   }, {
     "url": "codelists/alcohol-duty.csv",
-    "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
+    "tableSchema": "https://gss-cogs.github.io/ref_common/codelist-schema.json",
     "rdfs:label": "Alcohol Duty"
   }, {
     "url": "codelists/alcohol-related-issue.csv",
-    "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
+    "tableSchema": "https://gss-cogs.github.io/ref_common/codelist-schema.json",
     "rdfs:label": "Alcohol related issue"
   }, {
     "url": "codelists/alcohol-related-issue-importance.csv",
-    "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
+    "tableSchema": "https://gss-cogs.github.io/ref_common/codelist-schema.json",
     "rdfs:label": "Alcohol related issue importance"
   }, {
     "url": "codelists/alcohol-related-issue-response.csv",
-    "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
+    "tableSchema": "https://gss-cogs.github.io/ref_common/codelist-schema.json",
     "rdfs:label": "Alcohol related issue response"
   }, {
     "url": "codelists/demographic.csv",
-    "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
+    "tableSchema": "https://gss-cogs.github.io/ref_common/codelist-schema.json",
     "rdfs:label": "Demographic"
   }, {
     "url": "codelists/harm-level.csv",
-    "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
+    "tableSchema": "https://gss-cogs.github.io/ref_common/codelist-schema.json",
     "rdfs:label": "Harm level"
   }, {
     "url": "codelists/harm-type.csv",
-    "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
+    "tableSchema": "https://gss-cogs.github.io/ref_common/codelist-schema.json",
     "rdfs:label": "Harm type"
   }, {
     "url": "codelists/health-social-care-trusts.csv",
-    "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
+    "tableSchema": "https://gss-cogs.github.io/ref_common/codelist-schema.json",
     "rdfs:label": "Health and social care trust"
   }, {
     "url": "codelists/representatives.csv",
-    "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
+    "tableSchema": "https://gss-cogs.github.io/ref_common/codelist-schema.json",
     "rdfs:label": "Representatives"
   }, {
     "url": "codelists/residential-status.csv",
-    "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
+    "tableSchema": "https://gss-cogs.github.io/ref_common/codelist-schema.json",
     "rdfs:label": "Residential status"
   }, {
     "url": "codelists/respondents-affected.csv",
-    "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
+    "tableSchema": "https://gss-cogs.github.io/ref_common/codelist-schema.json",
     "rdfs:label": "Respondents affected"
   }, {
     "url": "codelists/service-type.csv",
-    "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
+    "tableSchema": "https://gss-cogs.github.io/ref_common/codelist-schema.json",
     "rdfs:label": "Service type"
   }, {
     "url": "codelists/severity.csv",
-    "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
+    "tableSchema": "https://gss-cogs.github.io/ref_common/codelist-schema.json",
     "rdfs:label": "Severity"
   }, {
     "url": "codelists/survey-metric.csv",
-    "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
+    "tableSchema": "https://gss-cogs.github.io/ref_common/codelist-schema.json",
     "rdfs:label": "Survey metric"
   }, {
     "url": "codelists/treatment-type.csv",
-    "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
+    "tableSchema": "https://gss-cogs.github.io/ref_common/codelist-schema.json",
     "rdfs:label": "Treatment type"
   }, {
     "url": "codelists/underlying-cause-of-death.csv",
-    "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
+    "tableSchema": "https://gss-cogs.github.io/ref_common/codelist-schema.json",
     "rdfs:label": "Underlying cause of death"
   }, {
     "url": "codelists/cause-of-death.csv",
-    "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
+    "tableSchema": "https://gss-cogs.github.io/ref_common/codelist-schema.json",
     "rdfs:label": "Cause of death"
   }, {
     "url": "codelists/indicator.csv",
-    "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
+    "tableSchema": "https://gss-cogs.github.io/ref_common/codelist-schema.json",
     "rdfs:label": "Indicator"
   }, {
     "url": "codelists/nimdm.csv",
-    "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
+    "tableSchema": "https://gss-cogs.github.io/ref_common/codelist-schema.json",
     "rdfs:label": "NIMDM Type"
   }, {
     "url": "codelists/basis-of-treatment.csv",
-    "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
+    "tableSchema": "https://gss-cogs.github.io/ref_common/codelist-schema.json",
     "rdfs:label": "Basis of treatment"
   }, {
     "url": "codelists/substance-type.csv",
-    "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
+    "tableSchema": "https://gss-cogs.github.io/ref_common/codelist-schema.json",
     "rdfs:label": "Substance type"
   }, {
     "url": "codelists/prescription.csv",
-    "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
+    "tableSchema": "https://gss-cogs.github.io/ref_common/codelist-schema.json",
     "rdfs:label": "Prescription"
   }, {
     "url": "codelists/household-expenditure-type.csv",
-    "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
+    "tableSchema": "https://gss-cogs.github.io/ref_common/codelist-schema.json",
     "rdfs:label": "Household expenditure type"
   }, {
     "url": "codelists/alcohol-affordability.csv",
-    "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
+    "tableSchema": "https://gss-cogs.github.io/ref_common/codelist-schema.json",
     "rdfs:label": "Alcohol affordability"
   }, {
     "url": "codelists/prescription-item.csv",
-    "tableSchema": "https://ons-opendata.github.io/ref_common/codelist-schema.json",
+    "tableSchema": "https://gss-cogs.github.io/ref_common/codelist-schema.json",
     "rdfs:label": "Prescription item"
   }]
 }
