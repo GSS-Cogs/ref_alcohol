@@ -1,5 +1,3 @@
-@Library('pmd@add_tests') _
-
 pipeline {
     agent {
         label 'master'
@@ -14,7 +12,9 @@ pipeline {
             }
             steps {
                 script {
-                    sh "csvlint -s codelists-metadata.json"
+                    ansiColor('xterm') {
+                        sh "csvlint -s codelists-metadata.json"
+	            }
                 }
             }
         }
@@ -43,6 +43,12 @@ pipeline {
     post {
         success {
             build job: '../GDP-tests', wait: false
+        }
+        always {
+            step([$class: 'GitHubIssueNotifier',
+              issueAppend: true,
+              issueLabel: '',
+              issueTitle: '$JOB_NAME $BUILD_DISPLAY_NAME failed'])
         }
     }
 }
