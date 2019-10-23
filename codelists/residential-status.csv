@@ -1,6 +1,6 @@
 Label,Notation,Parent Notation,Sort Priority
 All,all,,1
-Residential,residential,all,2
-Non-residential,non-residential,all,3
-Mixed,mixed,all,4
-Non-residential / mixed-non-residential-mixed,all, 5
+Residential,residential,,2
+Non-residential,non-residential,,3
+Mixed,mixed,,4
+Non-residential / mixed-non-residential-mixed,, 5
