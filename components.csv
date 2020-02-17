@@ -19,7 +19,6 @@ Harm type,Harm type,Dimension,http://gss-data.org.uk/def/concept-scheme/harm-typ
 Harm level,Harm level,Dimension,http://gss-data.org.uk/def/concept-scheme/harm-level
 Survey metric,Survey metric that is used to measure responses to alcohol related issues,Dimension,http://gss-data.org.uk/def/concept-scheme/survey-metric
 NI Treatment Type,NI Treatment Type,Dimension,http://gss-data.org.uk/def/concept-scheme/ni-treatment-type
-Trust,NHS trust,Dimension,http://gss-data.org.uk/def/concept-scheme/trust
 NI Service Type,NI Service Type,Dimension,http://gss-data.org.uk/def/concept-scheme/ni-service-type
 NI Residential Status,NI Residential Status,Dimension,http://gss-data.org.uk/def/concept-scheme/ni-residential-status
 Indicator,Local Alcohol Profiles for England indicator,Dimension,http://gss-data.org.uk/def/concept-scheme/indicator
