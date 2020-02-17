@@ -45,9 +45,9 @@
     "tableSchema": "https://gss-cogs.github.io/ref_common/codelist-schema.json",
     "rdfs:label": "Representatives"
   }, {
-    "url": "codelists/residential-status.csv",
+    "url": "codelists/ni-residential-status.csv",
     "tableSchema": "https://gss-cogs.github.io/ref_common/codelist-schema.json",
-    "rdfs:label": "Residential status"
+    "rdfs:label": "NI Residential status"
   }, {
     "url": "codelists/respondents-affected.csv",
     "tableSchema": "https://gss-cogs.github.io/ref_common/codelist-schema.json",
