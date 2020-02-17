@@ -18,9 +18,9 @@ Respondents affected,Respondents affected,Dimension,http://gss-data.org.uk/def/c
 Harm type,Harm type,Dimension,http://gss-data.org.uk/def/concept-scheme/harm-type
 Harm level,Harm level,Dimension,http://gss-data.org.uk/def/concept-scheme/harm-level
 Survey metric,Survey metric that is used to measure responses to alcohol related issues,Dimension,http://gss-data.org.uk/def/concept-scheme/survey-metric
-Treatment Type,Treatment Type,Dimension,http://gss-data.org.uk/def/concept-scheme/treatment-type
+NI Treatment Type,NI Treatment Type,Dimension,http://gss-data.org.uk/def/concept-scheme/ni-treatment-type
 Trust,NHS trust,Dimension,http://gss-data.org.uk/def/concept-scheme/trust
-Service Type,Service Type,Dimension,http://gss-data.org.uk/def/concept-scheme/service-type
+NI Service Type,NI Service Type,Dimension,http://gss-data.org.uk/def/concept-scheme/ni-service-type
 NI Residential Status,NI Residential Status,Dimension,http://gss-data.org.uk/def/concept-scheme/ni-residential-status
 Indicator,Local Alcohol Profiles for England indicator,Dimension,http://gss-data.org.uk/def/concept-scheme/indicator
 NIMDM Type,Describes the type of the Northern Ireland Multiple Deprivation Measure,Dimension,http://gss-data.org.uk/def/concept-scheme/nimdm
