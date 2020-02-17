@@ -53,9 +53,9 @@
     "tableSchema": "https://gss-cogs.github.io/ref_common/codelist-schema.json",
     "rdfs:label": "Respondents affected"
   }, {
-    "url": "codelists/service-type.csv",
+    "url": "codelists/ni-service-type.csv",
     "tableSchema": "https://gss-cogs.github.io/ref_common/codelist-schema.json",
-    "rdfs:label": "Service type"
+    "rdfs:label": "NI Service type"
   }, {
     "url": "codelists/severity.csv",
     "tableSchema": "https://gss-cogs.github.io/ref_common/codelist-schema.json",
@@ -65,9 +65,9 @@
     "tableSchema": "https://gss-cogs.github.io/ref_common/codelist-schema.json",
     "rdfs:label": "Survey metric"
   }, {
-    "url": "codelists/treatment-type.csv",
+    "url": "codelists/ni-treatment-type.csv",
     "tableSchema": "https://gss-cogs.github.io/ref_common/codelist-schema.json",
-    "rdfs:label": "Treatment type"
+    "rdfs:label": "NI Treatment type"
   }, {
     "url": "codelists/underlying-cause-of-death.csv",
     "tableSchema": "https://gss-cogs.github.io/ref_common/codelist-schema.json",
