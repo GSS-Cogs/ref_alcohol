@@ -51,7 +51,7 @@ Survey metric,survey_metric,qb:dimension,http://gss-data.org.uk/def/dimension/su
 Treatment Type,treatment_type,qb:dimension,http://gss-data.org.uk/def/dimension/treatment-type,http://gss-data.org.uk/def/concept/treatment-type/{treatment_type},string,slugize,,
 Trust,trust,qb:dimension,http://gss-data.org.uk/def/dimension/trust,http://gss-data.org.uk/def/concept/trust/{trust},string,slugize,,
 Service Type,service_type,qb:dimension,http://gss-data.org.uk/def/dimension/service-type,http://gss-data.org.uk/def/concept/service-type/{service_type},string,slugize,,
-Residential Status,residential_status,qb:dimension,http://gss-data.org.uk/def/dimension/residential-status,http://gss-data.org.uk/def/concept/residential-status/{residential_status},string,slugize,,
+NI Residential Status,ni_residential_status,qb:dimension,http://gss-data.org.uk/def/dimension/ni-residential-status,http://gss-data.org.uk/def/concept/ni-residential-status/{ni_residential_status},string,slugize,,
 Geography,geography,qb:dimension,http://purl.org/linked-data/sdmx/2009/dimension#refArea,http://statistics.data.gov.uk/id/statistical-geography/{geography},string,,,
 Revision,revision,qb:dimension,http://gss-data.org.uk/def/dimension/revision,http://gss-data.org.uk/def/concept/revisions/{revision},string,slugize,,
 Indicator,indicator,qb:dimension,http://gss-data.org.uk/def/dimension/indicator,http://gss-data.org.uk/def/concept/indicator/{indicator},string,,,
