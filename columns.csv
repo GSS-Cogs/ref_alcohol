@@ -38,7 +38,7 @@ Cause of Death,cause_of_death,qb:dimension,http://gss-data.org.uk/def/dimension/
 Alcohol Duty,alcohol_duty,qb:dimension,http://gss-data.org.uk/def/dimension/alcohol-duty,http://gss-data.org.uk/def/concept/alcohol-duty/{alcohol_duty},string,slugize,,
 Alcohol Content,alcohol_content,qb:dimension,http://gss-data.org.uk/def/dimension/alcohol-content,http://gss-data.org.uk/def/concept/alcohol-content/{alcohol_content},string,slugize,,
 Alcohol Category,alcohol_category,qb:dimension,http://gss-data.org.uk/def/dimension/alcohol-category,http://gss-data.org.uk/def/concept/alcohol-category/{alcohol_category},string,slugize,,
-Severity,severity,qb:dimension,http://gss-data.org.uk/def/dimension/severity,http://gss-data.org.uk/def/concept/severity/{severity},string,slugize,,
+DFT Severity,dft_severity,qb:dimension,http://gss-data.org.uk/def/dimension/dft-severity,http://gss-data.org.uk/def/concept/dft-severity/{dft_severity},string,slugize,,
 Demographic,demographic,qb:dimension,http://gss-data.org.uk/def/dimension/demographic,http://gss-data.org.uk/def/concept/demographic/{demographic},string,slugize,,
 Alcohol related issue response,alcohol_related_issue_response,qb:dimension,http://gss-data.org.uk/def/dimension/alcohol-related-issue-response,http://gss-data.org.uk/def/concept/alcohol-related-issue-response/{alcohol_related_issue_response},string,slugize,,
 Alcohol related issue,alcohol_related_issue,qb:dimension,http://gss-data.org.uk/def/dimension/alcohol-related-issue,http://gss-data.org.uk/def/concept/alcohol-related-issue/{alcohol_related_issue},string,slugize,,

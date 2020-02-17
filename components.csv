@@ -8,7 +8,7 @@ Cause of Death,Cause of death,Dimension,http://gss-data.org.uk/def/concept-schem
 Alcohol Duty,Alcohol Duty,Dimension,http://gss-data.org.uk/def/concept-scheme/alcohol-duty
 Alcohol Content,Alcohol by volume (ABV),Dimension,http://gss-data.org.uk/def/concept-scheme/alcohol-content
 Alcohol Category,Alcohol Category,Dimension,http://gss-data.org.uk/def/concept-scheme/alcohol-category
-Severity,Severity,Dimension,http://gss-data.org.uk/def/concept-scheme/severity
+DFT Severity,DFT Severity,Dimension,http://gss-data.org.uk/def/concept-scheme/dft-severity
 Demographic,Demographic,Dimension,http://gss-data.org.uk/def/concept-scheme/demographic
 Alcohol related issue response,Alcohol related issue response,Dimension,http://gss-data.org.uk/def/concept-scheme/alcohol-related-issue-response
 Alcohol related issue,Alcohol related issue,Dimension,http://gss-data.org.uk/def/concept-scheme/alcohol-related-issue

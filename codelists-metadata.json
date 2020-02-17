@@ -57,9 +57,9 @@
     "tableSchema": "https://gss-cogs.github.io/ref_common/codelist-schema.json",
     "rdfs:label": "NI Service type"
   }, {
-    "url": "codelists/severity.csv",
+    "url": "codelists/dft-severity.csv",
     "tableSchema": "https://gss-cogs.github.io/ref_common/codelist-schema.json",
-    "rdfs:label": "Severity"
+    "rdfs:label": "DFT Severity"
   }, {
     "url": "codelists/survey-metric.csv",
     "tableSchema": "https://gss-cogs.github.io/ref_common/codelist-schema.json",
