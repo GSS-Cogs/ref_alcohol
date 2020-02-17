@@ -21,7 +21,7 @@ Survey metric,Survey metric that is used to measure responses to alcohol related
 Treatment Type,Treatment Type,Dimension,http://gss-data.org.uk/def/concept-scheme/treatment-type
 Trust,NHS trust,Dimension,http://gss-data.org.uk/def/concept-scheme/trust
 Service Type,Service Type,Dimension,http://gss-data.org.uk/def/concept-scheme/service-type
-Residential Status,Residential Status,Dimension,http://gss-data.org.uk/def/concept-scheme/residential-status
+NI Residential Status,NI Residential Status,Dimension,http://gss-data.org.uk/def/concept-scheme/ni-residential-status
 Indicator,Local Alcohol Profiles for England indicator,Dimension,http://gss-data.org.uk/def/concept-scheme/indicator
 NIMDM Type,Describes the type of the Northern Ireland Multiple Deprivation Measure,Dimension,http://gss-data.org.uk/def/concept-scheme/nimdm
 "Rate per 1,000 accidents","Rate per 1,000 accidents",Measure,
